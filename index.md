@@ -1,5 +1,5 @@
 ---
-layout: simple-layout
+layout: simple_layout
 title: Index
 ---
 
