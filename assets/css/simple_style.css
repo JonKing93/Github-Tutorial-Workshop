@@ -3,7 +3,10 @@
 
 /* Navigation bar */
 header {
-  background: #212121;
+  color: #212529;
+  background: #fff;
+
+/*  background: #212121;
   background: -moz-linear-gradient(top, #373737, #212121);
   background: -webkit-linear-gradient(top, #373737, #212121);
   background: -ms-linear-gradient(top, #373737, #212121);
@@ -11,7 +14,7 @@ header {
   background: linear-gradient(to top, #373737, #212121);
 
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-  color: #fff;
+  color: #fff; */
 }
 
 nav {
