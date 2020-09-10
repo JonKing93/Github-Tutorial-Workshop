@@ -324,7 +324,7 @@ form {
 }
 
 #footer_wrap {
-  background: #212121;
+  background: #fff;
 }
 
 #header_wrap .inner {
@@ -333,7 +333,7 @@ form {
 
 #project_title {
   margin: 0;
-  color: #fff;
+  color: #212529;
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
