@@ -11,6 +11,7 @@ This workshop is designed to introduce scientists and researchers to the Github 
 
 1. Please [sign up for a Github account](https://github.com) if you do not already have one.
 2. Please also [install the Github Desktop App](https://desktop.github.com/) on your computer.
+3. TODO: Stuff for MATLAB, R, Python.
 
 Alright, let's start the workshop!
 
