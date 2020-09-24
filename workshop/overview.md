@@ -15,12 +15,10 @@ Furthermore, a version history makes it easy to restore previous versions of a p
 ### Back up files
 Given the time and effort that goes into research, it's terrible to lose your work. By saving and backing up versions of a project, you can ensure that your work is never lost, even if a computer is destroyed or files are accidentally deleted.
 
-### Organize multiple versions of a file
-
-
+### Organize simultaneous versions of a file
+Sometimes it can be useful to use multiple versions of a file simultaneously. For example, you may have a common analysis script that uses different settings for different papers. Managing the different versions of this file is important, as you would not want to apply the wrong settings to an analysis, and Github provides a framework for such organization.
 
 ### Share versions with collaborators
-
 
 
 
