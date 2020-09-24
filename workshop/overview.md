@@ -24,14 +24,6 @@ At this point, the commits are only stored on your local computer. So, after mak
 TODO: Build figure to include arrow labeled push pointing back at the cloud.
 
 
-
-
-
-
-
-
-
-
 # New Vocabulary
 
 Locations
@@ -39,9 +31,11 @@ Locations
 * repo: A repository.
 * remote: A repository stored on the cloud.
 * local: The repository stored on your computer.
-* commit:
+* commit: A saved version of a repository.
 
 Actions
 * clone: Downloading a remote repository to your computer.
 * commit: Saving a version of a project and documenting the changes.
 * push: Uploading commits to the remote repository.
+
+[Previous](git-vs-github)---[Next](new)
