@@ -27,15 +27,15 @@ TODO: Build figure to include arrow labeled push pointing back at the cloud.
 # New Vocabulary
 
 Locations
-* repository: The folder where the files for a project are stored.
-* repo: A repository.
-* remote: A repository stored on the cloud.
-* local: The repository stored on your computer.
-* commit: A saved version of a repository.
+* **repository**: The folder where the files for a project are stored.
+* **repo**: A repository.
+* **remote**: A repository stored on the cloud.
+* **local**: The repository stored on your computer.
+* **commit**: A saved version of a repository.
 
 Actions
-* clone: Downloading a remote repository to your computer.
-* commit: Saving a version of a project and documenting the changes.
-* push: Uploading commits to the remote repository.
+* **clone**: Downloading a remote repository to your computer.
+* **commit**: Saving a version of a project and documenting the changes.
+* **push**: Uploading commits to the remote repository.
 
 [Previous](git-vs-github)---[Next](new)
