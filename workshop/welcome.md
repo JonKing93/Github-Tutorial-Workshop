@@ -15,4 +15,4 @@ This workshop is designed to introduce scientists and researchers to the Github 
 
 Alright, let's start the workshop!
 
-[Next](overview)
+[Next](motivation)

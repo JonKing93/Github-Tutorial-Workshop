@@ -18,4 +18,4 @@ TODO: insert image
 
 is a snapshot of the desktop interface.
 
-[Previous](overview)---[Next](terms)
+[Previous](motivation)---[Next](terms)
