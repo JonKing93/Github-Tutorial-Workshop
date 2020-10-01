@@ -9,7 +9,7 @@ body {
   box-sizing: border-box;
 
   /* White background with black font */
-  background: #fff;
+  background: #898484;
   color:#373737;
 
   /* Make the font look nice */
@@ -31,9 +31,7 @@ header {
   padding: 50px 10px 30px 10px;
 }
 
-footer p {
-  color: #212529;
-}
+
 
 
 
@@ -156,7 +154,7 @@ Main content
 ****************************/
 
 #main_content_wrap {
-  background: #f2f2f2;
+  background: #fff;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
@@ -170,9 +168,11 @@ Main content
 /***************************
 Footer
 ****************************/
+footer p {
+  color: #212529;
+}
 footer a {
   text-decoration: underline;
-  color: #212529;
 }
 
 
