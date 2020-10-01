@@ -1,6 +1,10 @@
 @import "reset-browser-defaults.css";
 @import "rouge-github.css";
 
+
+/***************************
+Default colors and fonts
+****************************/
 body {
   box-sizing: border-box;
 
@@ -15,7 +19,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-
 header {
   /* Fonts in the header (mostly the nav bar) */
   color: #212529;
@@ -24,7 +27,36 @@ header {
   font-size: 25px;
   font-weight: 900;
 }
+#header_wrap .inner {
+  padding: 50px 10px 30px 10px;
+}
 
+footer {
+  color: #212529;
+}
+
+
+
+/***************************
+Outer/inner wrap
+****************************/
+
+.outer {
+  width: 100%;
+}
+
+.inner {
+  position: relative;
+  max-width: 700px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+
+
+/***************************
+Navigation bar
+****************************/
 nav {
   /* Centered items that fill the space */
   width: 100%;
@@ -94,9 +126,59 @@ float: right;
 
 
 
-/* Copy paste from slate theme */
 
 
+/***************************
+Title page
+****************************/
+#project_title {
+  margin: 0;
+  color: #212529;
+  background-color: #fff;
+  font-size: 42px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
+
+#project_tagline {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 300;
+  background: none;
+  text-shadow: #111 0px 0px 10px;
+}
+
+
+
+
+/***************************
+Main content
+****************************/
+
+#main_content_wrap {
+  background: #f2f2f2;
+  border-top: 1px solid #111;
+}
+
+#main_content {
+  padding-top: 40px;
+}
+
+
+
+/***************************
+Footer
+****************************/
+footer a {
+  text-decoration: underline;
+}
+
+
+
+
+/***************************
+Slate styles
+****************************/
 
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
@@ -137,10 +219,6 @@ p {
   margin: 10px 0 15px 0;
 }
 
-footer p {
-  color: #f2f2f2;
-}
-
 a {
   text-decoration: none;
   color: #0F79D0;
@@ -159,11 +237,6 @@ a {
 }
 
 a:hover, a:focus {
-  text-decoration: underline;
-}
-
-footer a {
-  color: #F2F2F2;
   text-decoration: underline;
 }
 
@@ -294,49 +367,4 @@ td {
 form {
   background: #f2f2f2;
   padding: 20px;
-}
-
-.outer {
-  width: 100%;
-}
-
-.inner {
-  position: relative;
-  max-width: 700px;
-  padding: 20px 10px;
-  margin: 0 auto;
-}
-
-#main_content_wrap {
-  background: #f2f2f2;
-  border-top: 1px solid #111;
-}
-
-#main_content {
-  padding-top: 40px;
-}
-
-#footer_wrap {
-  background: #fff;
-}
-
-#header_wrap .inner {
-  padding: 50px 10px 30px 10px;
-}
-
-#project_title {
-  margin: 0;
-  color: #212529;
-  background-color: #fff;
-  font-size: 42px;
-  font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
-}
-
-#project_tagline {
-  color: #fff;
-  font-size: 24px;
-  font-weight: 300;
-  background: none;
-  text-shadow: #111 0px 0px 10px;
 }
