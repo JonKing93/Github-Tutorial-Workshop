@@ -35,7 +35,7 @@ At this point, the commits are only stored on your local computer. So, after mak
 
 Putting it all together:
 
-<img src="..\assets\images\full-cycle.svg" alt="Essential steps of working with Github." style="width:100%;display:block">
+<img src="..\assets\images\full-cycle.svg" title="Test hover text" alt="Essential steps of working with Github." style="width:100%;display:block">
 
 
 # New Vocabulary
