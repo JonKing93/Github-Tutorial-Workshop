@@ -11,9 +11,7 @@ So you made a repository, nice! Go ahead and navigate to its folder on your comp
 2. A file named .gitattributes
 3. A file named README.md
 
-The first two include various settings and files required to make git and Github work properly. In general, you won't need to interact with them. The file "README.md" is the file created when we selected the README checkbox. The ".md" signifies a "markdown" file, which is a human-readable text file that also supports some formatting options. Go ahead and open it in a text editor if you're curious. You should see the repository name followed by its description. For example, the README for my salsa demo looks like:
-
-<img src="..\assets\images\salsa-readme.png" alt="Creating a new repository for my demo project." style="max-width:646px;display:block">
+The first two include various settings and files required to make git and Github work properly. In general, you won't need to interact with them. The file "README.md" is the file created when we selected the README checkbox. The ".md" signifies a "markdown" file, which is a human-readable text file that also supports some formatting options. Go ahead and open it in a text editor if you're curious. You should see the repository name followed by its description.
 
 # Publish the new repository to the cloud
 
