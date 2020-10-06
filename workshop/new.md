@@ -51,4 +51,4 @@ In my demo, I'm going to create a repository for a research project focused on f
 <img src="..\assets\images\new-demo.png" alt="Creating a new repository for my demo project." style="max-width:404px;display:block">
 
 
-[Previous](overview)---[Next](repo)
+[Previous](overview)---[Next](publish)
