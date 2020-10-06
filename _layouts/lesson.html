@@ -1,14 +1,20 @@
 <!DOCTYPE html>
 <html lang="en-US">
-{% include head.html %}
 
-  <body>
-    <header>
+<head>
+  {% include head_constants.html %}
+  <link rel="stylesheet" href=".\..\assets\css\style.css">
+  <title>Github Workshop: {{page.title}}</title>
+</head>
+
+<body>
+  <header class="outer">
     {% include navbar.html %}
-    </header>
+  </header>
 
-    {% include main_content.html %}
-    {% include footer.html %}
-  </body>
+  {% include main_content.html %}
+
+  {% include footer.html %}
+</body
 
 </html>

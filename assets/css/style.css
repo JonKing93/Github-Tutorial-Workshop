@@ -1,20 +1,66 @@
 @import "reset-browser-defaults.css";
 @import "rouge-github.css";
 
-/* Navigation bar */
-header {
-  background: #159957;
-  background: -moz-linear-gradient(120deg, #155799, #159957);
-  background: -webkit-linear-gradient(120deg, #155799, #159957);
-  background: -ms-linear-gradient(120deg, #155799, #159957);
-  background: -o-linear-gradient(120deg, #155799, #159957);
-  background: linear-gradient(120deg, #155799, #159957);
 
+/***************************
+Default colors and fonts. Also the outer/inner classes
+****************************/
+body {
+  box-sizing: border-box;
+
+  /* Black background for anything that extends past the footer */
+  background: #212121;
+
+  /* Make the fonts look nice */
+  font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-  color: #fff;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
 }
 
+.outer {
+  width: 100%;
+}
+
+.inner {
+  position: relative;
+  max-width: 700px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+/***************************
+All header
+****************************/
+header {
+  background: #212121;
+}
+
+/***************************
+Title banner
+****************************/
+#project_title {
+  margin: 0;
+  color: #fff;
+  font-size: 42px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
+
+#project_tagline {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 300;
+  background: none;
+  text-shadow: #111 0px 0px 10px;
+}
+
+
+/***************************
+Navigation Bar
+****************************/
 nav {
+  /* Centered items that fill the space */
   width: 100%;
   display: flex;
   justify-content: center;
@@ -22,6 +68,7 @@ nav {
 }
 
 nav ul {
+  /* Horizontal list */
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -35,72 +82,62 @@ nav ul {
 }
 
 nav ul li {
+  /* Spacing between navbar links */
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 900;
   flex: 1 1 120px;
   float: left;
 }
 
 nav ul li a {
-  display: block;
-  text-align: center;
+  /* Spacing of the links and text color */
   color: Silver;
-  text-decoration: none;
-  font-size: 25px;
-  font-weight: 900;
+  display: block;
   padding-top: 3px;
   padding-bottom: 3px;
   min-width: 90px;
 }
 
 nav ul li a:hover {
+  /* Change background color and underline when over a link */
   background: Silver;
   color: #212121;
 }
 
-#forkme_link {
-  width: 125px;
-  flex: 0 0 125px;
+/***************************
+Main content format and background color
+****************************/
+#main_content_wrap {
+  background: #fff;
+  border-top: 1px solid #111;
+  border-bottom: 1px solid #111;
 }
 
-#forkme_banner {
-font-size: 16px;
-color: #fff;
-background: url('/DASH/assets/images/blacktocat.png') #0090ff no-repeat 95% 50%;
-weight: 700;
-box-shadow: 0 0 10px rgba(0,0,0,.5);
-border-bottom-left-radius: 2px;
-border-bottom-right-radius: 2px;
-padding: 10px 50px 10px 10px;
-top:0;
-right:0;
-flex: 0 0 105px;
-width: 105px;
-float: right;
+#main_content {
+  padding-top: 40px;
 }
 
-#forkme_banner:hover {
-  text-decoration: underline;
-}
-
-
-
-/* Copy paste from slate theme */
-
-body {
-  box-sizing: border-box;
-  color:#373737;
-
+/***************************
+Footer
+****************************/
+footer {
   background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(to top, #373737, #212121);
-
-  font-size: 16px;
-  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
 }
+
+footer p {
+  color: #fff
+}
+
+footer a {
+  color: #fff;
+  text-decoration: underline
+}
+
+/***************************
+Slate styles
+****************************/
 
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
@@ -141,10 +178,6 @@ p {
   margin: 10px 0 15px 0;
 }
 
-footer p {
-  color: #f2f2f2;
-}
-
 a {
   text-decoration: none;
   color: #0F79D0;
@@ -163,11 +196,6 @@ a {
 }
 
 a:hover, a:focus {
-  text-decoration: underline;
-}
-
-footer a {
-  color: #F2F2F2;
   text-decoration: underline;
 }
 
@@ -298,48 +326,4 @@ td {
 form {
   background: #f2f2f2;
   padding: 20px;
-}
-
-.outer {
-  width: 100%;
-}
-
-.inner {
-  position: relative;
-  max-width: 700px;
-  padding: 20px 10px;
-  margin: 0 auto;
-}
-
-#main_content_wrap {
-  background: #f2f2f2;
-  border-top: 1px solid #111;
-}
-
-#main_content {
-  padding-top: 40px;
-}
-
-#footer_wrap {
-  background: #212121;
-}
-
-#header_wrap .inner {
-  padding: 50px 10px 30px 10px;
-}
-
-#project_title {
-  margin: 0;
-  color: #fff;
-  font-size: 42px;
-  font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
-}
-
-#project_tagline {
-  color: #fff;
-  font-size: 24px;
-  font-weight: 300;
-  background: none;
-  text-shadow: #111 0px 0px 10px;
 }

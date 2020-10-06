@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html lang="en-US">
+
 <head>
-  <meta charset='utf-8'>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width,maximum-scale=2">
-  <link rel="stylesheet" href=".\assets\css\simple_style.css">
+  {% include head_constants.html %}
+  <link rel="stylesheet" href=".\assets\css\style.css">
   <title>Github Workshop</title>
 </head>
 
-  <body>
-    <header>
+<body>
+  <header class="outer">
     {% include title_banner.html %}
     {% include navbar.html %}
-    </header>
+  </header>
 
-    {% include main_content.html %}
-    {% include footer.html %}
-  </body>
+  {% include main_content.html %}
+
+  {% include footer.html %}
+</body
 
 </html>
