@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Github: Overview
+title: "Github: Overview"
 ---
 
 # So, how does this all work?
