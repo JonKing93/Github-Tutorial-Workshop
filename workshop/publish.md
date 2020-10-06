@@ -47,6 +47,7 @@ When your code is in a public repository, collaborators can suggest modification
 
 Once you select a setting for your project, go ahead and click the "Publish Repository" button.
 
+<br>
 # Demo
 
 For the demo repository, I am choosing to use a public repository.

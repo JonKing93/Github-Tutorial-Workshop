@@ -43,7 +43,7 @@ This box has options for automatically choosing a license for your project. A de
 
 Once you've finished with the fields, you're ready to create a repository. Nice! Go ahead and click the "Create Repository" button.
 
-
+<br>
 # Demo
 
 In my demo, I'm going to create a repository for a research project focused on finding the best recipe for salsa verde. I'm going to name the repository "salsa-demo", and the description: "This is my project for finding the best recipe for salsa verde". I'm going to initialize it with a README, but no .gitignore or license.

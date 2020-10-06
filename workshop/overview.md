@@ -37,7 +37,7 @@ Putting it all together:
 
 <img src="..\assets\images\full-cycle.svg" title="Test hover text" alt="Essential steps of working with Github." style="width:100%;display:block">
 
-
+<br>
 # New Vocabulary
 
 Locations
