@@ -10,7 +10,12 @@
 <body>
   <header class="outer">
     {% include title_banner.html %}
-    {% include navbar.html %}
+    <nav class="inner">
+      <ul>
+        <li><a href="./workshop/welcome">Lessons</a></li>
+        <li><a href="./workshop/welcome">Exercises</a></li>
+      </ul>
+    </nav>
   </header>
 
   {% include main_content.html %}
