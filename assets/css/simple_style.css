@@ -8,9 +8,9 @@ Default colors and fonts
 body {
   box-sizing: border-box;
 
-  /* White background with black font */
-  background: #212121;
-  color:#373737;
+  /* Black background with white font -- header and footer */
+  background: #898484;
+  color:#fff;
 
   /* Make the font look nice */
   font-size: 16px;
@@ -21,7 +21,6 @@ body {
 
 header {
   /* Fonts in the header (mostly the nav bar) */
-  color: #212529;
   text-align: center;
   text-decoration: none;
   font-size: 25px;
