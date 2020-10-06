@@ -84,6 +84,7 @@ nav ul li {
 
 nav ul li a {
   /* Spacing of the links */
+  color: #fff;
   display: block;
   padding-top: 3px;
   padding-bottom: 3px;
@@ -168,7 +169,7 @@ Main content
 Footer
 ****************************/
 footer p {
-  color: #212529;
+  color: #fff;
 }
 footer a {
   text-decoration: underline;
