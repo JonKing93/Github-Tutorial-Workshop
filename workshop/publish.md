@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Publish
+title: Publish Repository
 ---
 
 # The new repository

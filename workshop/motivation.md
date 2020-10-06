@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Motivation
+title: Github: Motivation
 ---
 
 # I'm a scientist, why should I use Github?
