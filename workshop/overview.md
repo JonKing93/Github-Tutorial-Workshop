@@ -31,11 +31,17 @@ At this point, the commits are only stored on your local computer. So, after mak
 
 <img src="..\assets\images\push.svg" alt="Pushing the new commit from the local computer to the Github cloud." style="width:100%;display:block">
 
+### Additional Commits and Pushes
+
+It's worth noting that you only need to clone the repository once. Once you have a local copy, git will track all changes you make. So you can make additional commits push them ad infinitum.
+
+<img src="..\assets\images\continue.svg" alt="Making additional commits and pushes." style="width:100%;display:block">
+
 ### Summary
 
 Putting it all together:
 
-<img src="..\assets\images\full-cycle.svg" title="Test hover text" alt="Essential steps of working with Github." style="width:100%;display:block">
+<img src="..\assets\images\full-cycle.svg" alt="Essential steps of working with Github." style="width:100%;display:block">
 
 <br>
 # New Vocabulary
