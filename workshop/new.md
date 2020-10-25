@@ -5,7 +5,7 @@ title: Create a Repository
 
 # Create a new repository
 
-Alright, let's start by making a new repository. Open Github Desktop, select the "File" dropdown menu, and choose the "New Repository" option.
+Before we can clone a repository and start making commits, we will need to create a new repository and publish it on the Github cloud. To do so: open Github Desktop, select the "File" dropdown menu, and choose the "New Repository" option.
 
 <img src="..\assets\images\new.png" alt="Selecting a new repository from the file dropdown menu." style="max-width:374px;display:block">
 
@@ -21,7 +21,7 @@ Here you should provide a name for your project. Use something memorable that wo
 
 ### Description
 
-A short 1-2 sentence description of the project that will be organized in this repository. This is an optional field, but it's a good idea to use it as this is the first step to documenting a project!
+A short 1-2 sentence description of the project that will be organized in this repository. This is an optional field, but it's a good idea to use it as this is the first step to documenting a project.
 
 ### Local Path
 
@@ -29,7 +29,7 @@ When you create the repository for a project, Github will create a folder to sto
 
 ### Initialize with README
 
-The next option is a checkbox indicating whether to initialize the project with a README file. A readme is a text document that can provide a summary or information about a project. Think of it as analogous to the abstract in a scientific paper. Creating a README is optional, but recommended and common practice with Github. For this workshop, go ahead and select the checkbox so that the repository includes a repository.
+The next option is a checkbox indicating whether to initialize the project with a README file. A readme is a text document that can provide a summary or information about a project. Think of it as analogous to the abstract in a scientific paper. Creating a README is optional, but recommended and common practice with Github. For this workshop, go ahead and select the checkbox so that the repository includes a readme.
 
 ### Gitignore
 
