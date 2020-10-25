@@ -23,6 +23,21 @@ Find your repository and click on it.
 
 # The repository page
 
+You should find yourself on a page for your repository. For example, here is the page for my demo repo.
 
+<img src="..\assets\images\demo-repo.png" alt="The page for the demo repo on Github's website." style="max-width:700px;display:block">
 
-You'll be taken to a page for the repository. Here, you'll find many features and options for interacting with the project.
+This page includes many options for interacting with your project, such as:
+1. Documenting bugs and organizing to-do lists,
+2. Collaborative coding,
+3. Creating software releases,
+4. Organizing projects into a package,
+and many other features. These features are mostly beyond the scope of this workshop, but I'd encourage you to explore them on your own time.
+
+For now, we'll just focus on one feature. In the center of the page, you should see a list of the files in your repository. For example:
+
+<img src="..\assets\images\repo-code.png" alt="The files in my demo repo." style="max-width:700px;display:block">
+
+As of now, the repository is only tracking two files: the ".gitattributes" file and the README. Let's start adding other files to our project.
+
+[Previous](publish)---[Next]()
