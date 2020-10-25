@@ -33,7 +33,7 @@ At this point, the commits are only stored on your local computer. So, after mak
 
 ### Additional Commits and Pushes
 
-It's worth noting that you only need to clone the repository once. Once you have a local copy, git will track all changes you make. So you can make additional commits and push them ad infinitum.
+It's worth noting that you only need to clone the repository once. Once you have a local copy, git will track all changes you make, so you can continue make additional commits and pushes quickly and efficiently.
 
 <img src="..\assets\images\continue.svg" alt="Making additional commits and pushes." style="width:100%;display:block">
 
