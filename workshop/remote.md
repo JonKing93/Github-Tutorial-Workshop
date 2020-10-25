@@ -21,6 +21,7 @@ You should see a list of your repositories. For example:
 
 Find your repository and click on it.
 
+<br>
 # The repository page
 
 You should find yourself on a page for your repository. For example, here is the page for my demo repo.
@@ -38,6 +39,6 @@ For now, we'll just focus on one feature. In the center of the page, you should 
 
 <img src="..\assets\images\repo-code.png" alt="The files in my demo repo." style="max-width:700px;display:block">
 
-As of now, the repository is only tracking two files: the ".gitattributes" file and the README. Let's start adding other files to our project.
+We can see that the repository is currently tracking two files: the ".gitattributes" file and the README. Let's start adding other files and building up our projects.
 
 [Previous](publish)---[Next]()
