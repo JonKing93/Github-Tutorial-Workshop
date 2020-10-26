@@ -29,11 +29,15 @@ You can use a .gitignore file to ensure that certain files / types of files are 
 ### Comments
 
 You can make any line in a .gitignore file a comment by starting it with a hashtag character (#). For example:
-`# This line is a comment.`
+```
+# This line is a comment.
+```
 
 ### Ignore a specific file
 You can use a line of a .gitignore to ignore a specific file by providing the file name. For example:
-`my-database-file.nc`
+```
+my-database-file.nc
+```
 would cause the repository to ignore the file "my-database-file.nc".
 
 ### Ignore all files with a particular extension
