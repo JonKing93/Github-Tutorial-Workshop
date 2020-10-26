@@ -5,7 +5,7 @@ title: Exercise 1
 
 # Exercise 1: Create a new repository
 
-In this exercise, we will create a new repository.
+In this exercise, we will create a new repository and examine its contents.
 
 ## A) Create a new repository
 
@@ -55,6 +55,7 @@ I'm going to use a demo project to help illustrate some of the exercises. My dem
 
 <img src="..\assets\images\new-demo.png" alt="Creating a new repository for my demo project." style="max-width:419px;display:block">
 
+<br>
 ## B) Explore the local repository
 
 So you made a repository, nice! Go ahead and navigate to its folder on your computer (remember, this is wherever we set the local path). Inside you should see three items
