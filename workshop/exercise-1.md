@@ -53,7 +53,7 @@ Once you've finished with the fields, you're ready to create a repository. Go ah
 
 I'm going to use a demo project to help illustrate some of the exercises. My demo will be for a research project focusing on finding the best recipe for salsa verde. I'm going to name the demo repository "salsa-demo" and use the description: "This is my project for finding the best recipe for salsa verde". I'm going to initialize it with a README, but no .gitignore or license.
 
-<img src="..\assets\images\new-demo.png" alt="Creating a new repository for my demo project." style="max-width:404px;display:block">
+<img src="..\assets\images\new-demo.png" alt="Creating a new repository for my demo project." style="max-width:419px;display:block">
 
 ## B) Explore the local repository
 
