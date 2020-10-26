@@ -15,7 +15,7 @@ Move a project file into the local repository on your computer. This can be almo
 
 I'm going to add a file named "ingredients.txt" to my demo repository.
 
-<img src="..\assets\images\repo-contents-2.png" alt="A file browser for the salsa repository now includes a file named 'ingredients.txt'." style="max-width:700px;display:block">
+<img src="..\assets\images\repo-contents-2.PNG" alt="A file browser for the salsa repository now includes a file named 'ingredients.txt'." style="max-width:450px;display:block">
 
 This is the ingredients list for my salsa recipe. The contents of ingredients.txt are:
 
