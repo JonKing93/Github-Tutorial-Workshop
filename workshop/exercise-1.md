@@ -69,7 +69,7 @@ For example, after creating my demo repository I have:
 
 The ".git" folder and ".gitattributes" file include various settings and files required to make git and Github work properly. In general, you won't need to interact with them. The file "README.md" is the file created when we selected the README checkbox. The ".md" signifies a "markdown" file, which is a human-readable text file that also supports some formatting options (like italics, bold, and links). If you're curious, go ahead and open it in a text editor. You should see the repository name followed by its description.
 
-For example, here are the contents of the README for my salsa repository:
+For example, here are the contents of README.md for my salsa repository:
 ```
 # salsa-demo
  This is my project for finding the best recipe for salsa verde.
