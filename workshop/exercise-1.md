@@ -15,7 +15,7 @@ Open Github Desktop, select the "File" dropdown menu and choose the "New Reposit
 
 After doing so, you will be presented with a window specifying options for creating the repository.
 
-<img src="..\assets\images\new-options.png" alt="A window with options for creating a new repository." style="max-width:401px;display:block">
+<img src="..\assets\images\new-options.png" alt="A window with options for creating a new repository." style="max-width:419px;display:block">
 
 Let's walk through the different fields.
 
@@ -48,6 +48,12 @@ This box has options for automatically choosing a license for your project. A de
 ### Create
 
 Once you've finished with the fields, you're ready to create a repository. Go ahead and click the "Create Repository" button.
+
+### Demo
+
+I'm going to use a demo project to help illustrate some of the exercises. My demo will be for a research project focusing on finding the best recipe for salsa verde. I'm going to name the demo repository "salsa-demo" and use the description: "This is my project for finding the best recipe for salsa verde". I'm going to initialize it with a README, but no .gitignore or license.
+
+<img src="..\assets\images\new-demo.png" alt="Creating a new repository for my demo project." style="max-width:404px;display:block">
 
 ## B) Explore the local repository
 
