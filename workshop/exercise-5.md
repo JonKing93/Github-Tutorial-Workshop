@@ -15,7 +15,7 @@ Move some files you'd like to ignore into the repository. Open up Github Desktop
 
 and can see them under the "Changes" tab in Github Desktop.
 
-<img src="..\assets\images\ignore-1.PNG" alt="A file browser shows the addition of two data files: 1. salsa-database.mat, and 2. chile-data.nc." style="max-width:700px;display:block">
+<img src="..\assets\images\ignore-1.PNG" alt="Github desktop lists the two new files under the changes tab." style="max-width:700px;display:block">
 
 Note that Github Desktop cannot display the contents of these files because they are stored in a binary format. Again, Github is not designed to track changes to large files or data; it is primarily for plain text and code.
 
