@@ -75,4 +75,6 @@ For example, here are the contents of README.md for my salsa repository:
  This is my project for finding the best recipe for salsa verde.
 ```
 
+So, we've now created a repository for a project. In the next exercise, we will see how to publish the repository to the cloud so that we can start making commits and pushes.
+
 [Previous](04-publish)---[Next](exercise-2)

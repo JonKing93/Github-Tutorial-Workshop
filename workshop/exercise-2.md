@@ -68,6 +68,6 @@ For now, we'll just focus on one feature. In the center of the page, you should 
 
 We can see that the repository is currently tracking two files: the ".gitattributes" file and the README.
 
-In the next exercise, we will add more files to the repository and begin to build out the project.
+Now that you have a remote repository, you can start building your project and tracking changes. In the next exercise, we will commit some new files to the project and commit them to the remote repository.
 
 [Previous](exercise-1)---[Next](exercise-3)
