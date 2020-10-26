@@ -58,4 +58,4 @@ Actions
 * **commit**: Saving a version of a project and documenting the changes.
 * **push**: Uploading commits to the remote repository.
 
-[Previous](02-git-vs-github)---[Next](04-new)
+[Previous](02-git-vs-github)---[Next](04-publish)
