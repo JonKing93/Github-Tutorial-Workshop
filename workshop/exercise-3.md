@@ -11,7 +11,7 @@ Now that we've created and published the repository, we're going to start adding
 
 Move a project file into the local repository on your computer. This can be almost anything, but a code file is a good place to start.
 
-**Important**: Github is designed to manage code, not large databases. Trying to commit files larger than 100MB will cause errors, so stick with something small.
+**Important**: Github is designed to manage code, not large databases. Trying to commit files larger than 100MB will cause errors, so stick with something small for now. Later in [Exercise 5](exercise-5), we will see how to use a [.gitignore](05-gitignore) to add large files to a local repository without committing them.
 
 I'm going to add a file named "ingredients.txt" to my demo repository.
 
@@ -56,6 +56,6 @@ Go ahead and fill out the commit message and click the button to make the commit
 
 <img src="..\assets\images\demo-add.PNG" alt="A zoomed view of the Github Desktop commit interface the commit message filled out. The message indicates that an ingredient list was added to the demo." style="max-width:242px;display:block">
 
-Congratulations, you just made your first commit!
+Congratulations, you just made your first commit! In the next exercise, we will push the commit so that the new file is backed up online.
 
-[Previous](exercise-2)---[Next]
+[Previous](exercise-2)---[Next](exercise-4)
