@@ -9,9 +9,13 @@ In this exercise, we will practice using a .gitignore to ignore files in the loc
 
 ## A) Test the ignored files
 
-Move some files you'd like to ignore into the repository. Open up Github Desktop and you should see that the files will be added to the next commit. For example:
+Move some files you'd like to ignore into the repository. Open up Github Desktop and you should see that the files will be added to the next commit. For example, I've added a two large data files to my project:
 
-INSERT FIGURE
+<img src="..\assets\images\repo-contents-ignore.PNG" alt="A file browser shows the addition of two data files: 1. salsa-database.mat, and 2. chile-data.nc." style="max-width:447px;display:block">
+
+and can see them in Github Desktop
+
+<img src="..\assets\images\ignore-1.PNG" alt="A file browser shows the addition of two data files: 1. salsa-database.mat, and 2. chile-data.nc." style="max-width:700px;display:block">
 
 Note that you could uncheck the files to prevent them from being added to the next commit. For example, I could do
 
