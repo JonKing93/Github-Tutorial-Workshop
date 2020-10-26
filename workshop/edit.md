@@ -20,4 +20,8 @@ You can see that I've:
 Go ahead and commit your edits and push them to the remote. Navigate back to the page for the remote repository. You can look at the most recent commit messages for each file to see that each has been updated with the edits. For example:
 <img src="..\assets\images\repo-contents-2.png" alt="The contents of the demo repository now include a file named ingredients.txt." style="max-width:450px;display:block">
 
+# More Practice
+Edit some more files in your project. Make at least two more commits. In my demo, I've removed black pepper from the ingredients list and specified that the vegetables should be boiled for 10 minutes instead of 5.
+<img src="..\assets\images\repo-contents-2.png" alt="The contents of the demo repository now include a file named ingredients.txt." style="max-width:450px;display:block">
+
 [Previous](add)---[Next](history)

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: "Github: Motivation"
+title: Why Github?
 ---
 
 # I'm a scientist, why should I use Github?
@@ -22,4 +22,4 @@ Sometimes it can be useful to use multiple versions of a file simultaneously. Fo
 When working with collaborators, it's not uncommon to share some code, make changes to the code, but forget to re-share the updated file. Alternatively, you may want to design code collaboratively, but lack a platform to do so. By backing up files to cloud, Github ensures that collaborators always have access to the most up-to-date version of code.
 
 
-[Previous](welcome)---[Next](git-vs-github)
+[Previous](welcome)---[Next](02-git-vs-github)

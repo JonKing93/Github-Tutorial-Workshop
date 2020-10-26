@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: "Github: Overview"
+title: Github fundamentals
 ---
 
 # So, how does this all work?
@@ -58,4 +58,4 @@ Actions
 * **commit**: Saving a version of a project and documenting the changes.
 * **push**: Uploading commits to the remote repository.
 
-[Previous](git-vs-github)---[Next](new)
+[Previous](02-git-vs-github)---[Next](04-new)

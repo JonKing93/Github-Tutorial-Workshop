@@ -1,15 +1,19 @@
 ---
 layout: lesson
-title: Create a Repository
+title: Exercise 1
 ---
 
-# Create a new repository
+# Exercise 1: Create a new repository
 
-Before we can clone a repository and start making commits, we will need to create a new repository and publish it on the Github cloud. To do so: open Github Desktop, select the "File" dropdown menu, and choose the "New Repository" option.
+In this exercise, we will create a new repository.
+
+## A) Create a new repository
+
+Open Github Desktop, select the "File" dropdown menu and choose the "New Repository" option.
 
 <img src="..\assets\images\new.png" alt="Selecting a new repository from the file dropdown menu." style="max-width:374px;display:block">
 
-After doing this, you will being presented with a window specifying options for creating the repository.
+After doing so, you will be presented with a window specifying options for creating the repository.
 
 <img src="..\assets\images\new-options.png" alt="A window with options for creating a new repository." style="max-width:401px;display:block">
 
@@ -43,14 +47,34 @@ This box has options for automatically choosing a license for your project. A de
 
 ### Create
 
-Once you've finished with the fields, you're ready to create a repository. Nice! Go ahead and click the "Create Repository" button.
+Once you've finished with the fields, you're ready to create a repository. Go ahead and click the "Create Repository" button.
+
+## B) Explore the local repository
+
+So you made a repository, nice! Go ahead and navigate to its folder on your computer (remember, this is wherever we set the local path). Inside you should see three items
+
+1. A folder named ".git",
+2. A file named .gitattributes
+3. A file named README.md
+
+It should look something like this:
+
+<img src="..\assets\images\new-repo-contents.png" alt="The contents of the new repository." style="max-width:453px;display:block">
+
+The ".git" folder and ".gitattributes" file include various settings and files required to make git and Github work properly. In general, you won't need to interact with them. The file "README.md" is the file created when we selected the README checkbox. The ".md" signifies a "markdown" file, which is a human-readable text file that also supports some formatting options (like italics, bold, and links). If you're curious, go ahead and open it in a text editor. You should see the repository name followed by its description.
+
 
 <br>
-# Demo
+# Exercise 1 Demo
 
-In my demo, I'm going to create a repository for a research project focused on finding the best recipe for salsa verde. I'm going to name the repository "salsa-demo", and the description: "This is my project for finding the best recipe for salsa verde". I'm going to initialize it with a README, but no .gitignore or license.
+My demo will be for a research project focused on finding the best recipe for salsa verde. I'm going to name the repository "salsa-demo" and use the description: "This is my project for finding the best recipe for salsa verde". I'm going to initialize it with a README, but no .gitignore or license.
 
 <img src="..\assets\images\new-demo.png" alt="Creating a new repository for my demo project." style="max-width:404px;display:block">
 
+Clicking the "Create Repository" button makes a new repository with the following structure.
 
-[Previous](overview)---[Next](publish)
+INSERT FIGURE.
+
+The contents of the README file are:
+
+INSERT FIGURE.

@@ -14,7 +14,7 @@ So you made a repository, nice! Go ahead and navigate to its folder on your comp
 For example:
 <img src="..\assets\images\new-repo-contents.png" alt="The new repository as the current repository." style="max-width:453px;display:block">
 
-The first ".git" folder and ".gitattributes" file include various settings and files required to make git and Github work properly. In general, you won't need to interact with them. The file "README.md" is the file created when we selected the README checkbox. The ".md" signifies a "markdown" file, which is a human-readable text file that also supports some formatting options (like italics, bold, and links). If you're curious, go ahead and open it in a text editor. You should see the repository name followed by its description.
+The ".git" folder and ".gitattributes" file include various settings and files required to make git and Github work properly. In general, you won't need to interact with them. The file "README.md" is the file created when we selected the README checkbox. The ".md" signifies a "markdown" file, which is a human-readable text file that also supports some formatting options (like italics, bold, and links). If you're curious, go ahead and open it in a text editor. You should see the repository name followed by its description.
 
 # Publish the new repository to the cloud
 
