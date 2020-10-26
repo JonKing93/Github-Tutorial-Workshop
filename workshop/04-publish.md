@@ -15,6 +15,7 @@ Our discussion of Github fundamentals began with the assumption that you have a 
 
 In the next few exercises, we will learn how to create and publish a new repository.
 
+<br>
 # Public vs. Private
 
 When you publish a repository on Github, you have the option to set it as a public or private repository. A public repository can be viewed by anyone on Github while a private repository is only visible to you and invited collaborators. If your project contains sensitive information, you'll probably want to use a private repository. Otherwise, I encourage you to make your repositories public for several reasons:

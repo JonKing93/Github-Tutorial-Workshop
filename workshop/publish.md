@@ -32,6 +32,17 @@ This will open a box showing the name and description of the repository. There i
 
 <img src="..\assets\images\publish.png" alt="The box with options for publishing." style="max-width:448px;display:block">
 
+Make the selections you find appropriate and click the "Publish Repository" button. For the demo, I am choosing to use a public repository, so I will use:
+
+<img src="..\assets\images\demo-publish.png" alt="Publishing a new repository for my demo project." style="max-width:448px;display:block">
+
+before clicking the publish button.
+
+## C) Examine the remote repository
+
+
+
+
 # Public vs. Private
 
 When you publish a repository as a public repository, it can be viewed by anyone on Github. By contrast, a private repository is only visible to you and invited collaborators. If your project contains sensitive information, you'll probably want to use a private repository. Otherwise, I encourage you to make your repositories public for several reasons:
