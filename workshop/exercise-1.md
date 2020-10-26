@@ -63,24 +63,15 @@ So you made a repository, nice! Go ahead and navigate to its folder on your comp
 2. A file named .gitattributes
 3. A file named README.md
 
-It should look something like this:
-
-<img src="..\assets\images\new-repo-contents.png" alt="The contents of the new repository." style="max-width:453px;display:block">
+For example, after creating my demo repository I have:
+<img src="..\assets\images\new-repo-contents.png" alt="Show a file browser for the 'salsa-demo' repository. Contents are a 'git' folder, 'gitattributes' file, and a 'README' file." style="max-width:453px;display:block">
 
 The ".git" folder and ".gitattributes" file include various settings and files required to make git and Github work properly. In general, you won't need to interact with them. The file "README.md" is the file created when we selected the README checkbox. The ".md" signifies a "markdown" file, which is a human-readable text file that also supports some formatting options (like italics, bold, and links). If you're curious, go ahead and open it in a text editor. You should see the repository name followed by its description.
 
+For example, here are the contents of the README for my salsa repository:
+```
+# salsa-demo
+ This is my project for finding the best recipe for salsa verde.
+```
 
-<br>
-# Exercise 1 Demo
-
-My demo will be for a research project focused on finding the best recipe for salsa verde. I'm going to name the repository "salsa-demo" and use the description: "This is my project for finding the best recipe for salsa verde". I'm going to initialize it with a README, but no .gitignore or license.
-
-<img src="..\assets\images\new-demo.png" alt="Creating a new repository for my demo project." style="max-width:404px;display:block">
-
-Clicking the "Create Repository" button makes a new repository with the following structure.
-
-INSERT FIGURE.
-
-The contents of the README file are:
-
-INSERT FIGURE.
+[Previous](04-publish)---[Next](exercise-2)
