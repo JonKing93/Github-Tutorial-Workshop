@@ -18,7 +18,7 @@ We will also touch on forking code and pull requests, but this will not be a pri
 
 1. Please [sign up for a Github account](https://github.com) if you do not already have one.
 2. Please also [install the Github Desktop App](https://desktop.github.com/) on your computer.
-3. You will need access to a basic text editor (e.g. Notepad, Textedit, Atom, Vi, etc...)
+3. You will need access to a plain text editor (e.g. Notepad, Textedit, Atom, Vi, etc...)
 4. (Optional) Install any preferred coding environments (e.g MATLAB, Pycharm, RStudio, etc).
 
 Alright, let's start the workshop!
