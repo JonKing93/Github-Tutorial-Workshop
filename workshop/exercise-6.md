@@ -58,4 +58,4 @@ for the salsa demo. Clicking on any of these commits will allow you to browse th
 
 A version history can be valuable for documenting progress and changes to a research project. However, it can also be useful for removing unwanted changes or updates that break your code. In the next exercise, we will see how to use the version history to revert bad commits.
 
-[Previous](add)---[Next](history)
+[Previous](exercise-5)---[Next](06-branch)

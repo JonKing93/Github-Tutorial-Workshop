@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Exercise 6
+title: Exercise 7
 ---
 
 # Exercise 7: Revert Bad Commits
