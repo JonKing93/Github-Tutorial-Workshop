@@ -26,4 +26,4 @@ You can then switch between different branches and add new commits as your needs
 
 In the next exercise, we will see how to create and commit to different branches.
 
-[Previous](exercise-6)---[Next](exercise-7)
+[Previous](exercise-7)---[Next](exercise-8)
