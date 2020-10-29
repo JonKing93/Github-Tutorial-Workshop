@@ -36,7 +36,7 @@ Commit your edited file and make at least two more commits. For example, I'm goi
 
 Note that you can examine the changes to different files by selecting them in the "Changes" tab. For example, if I wanted to see the changes to salsa_verde.m, I would do:
 
-INSERT FIGURE
+<img src="..\assets\images\track3.png" alt="Github Desktop shows that the recipe instructions and code file have changed. A red arrow labeled 'select a file' points to the code file. The changes to the code are shown on the right." style="max-width:700px;display:block">
 
 ## D) Examine the version history
 
