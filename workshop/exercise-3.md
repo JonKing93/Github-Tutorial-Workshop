@@ -21,10 +21,10 @@ This is the ingredients list for my salsa recipe. The contents of ingredients.tx
 
 ```
 8 Tomatillos
-2 Jalapenos, seeds and stems removed
+2 Jalapenos
 1/4 white onion
-2 garlic cloves, peeled
-1 bunch fresh cilantro, roughly chopped
+2 garlic cloves
+1 bunch fresh cilantro
 1/2 t salt
 ```
 
