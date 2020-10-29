@@ -11,7 +11,14 @@ Sometimes, there may be files in your local repository that you do not want to c
 
 As mentioned in exercise 3, Github is designed to track code and small text files rather than large databases. Consequently, trying to commit and push a file larger than 100MB will result in errors. However, large data files are common and often necessary in scientific research projects, so it can be useful to have them in the local repository without committing them.
 
-Some example file extensions for data files include: .dat, .csv, .xlsx, .nc, .mat, and .hdf, but there are many more.
+Some common file extensions for data files include: 
+* .dat,
+* .csv,
+* .xlsx,
+* .nc,
+* .mat, and
+* .hdf,
+but there are many more.
 
 ### 2. Automatically generated files
 
