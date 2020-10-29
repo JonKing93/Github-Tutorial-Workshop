@@ -11,11 +11,18 @@ Now that you've added files to your repository, you can use Github to record all
 
 Make some edits to a file in your repository. For example, I am adding a bit more information to the ingredients list. The updated "ingredients.txt" file now looks like:
 
-INSERT CONTENTS
+```
+8 Tomatillos, peeled and washed
+2 Jalapenos, seeds and stems removed
+1/4 white onion
+2 garlic cloves, peeled
+1 bunch fresh cilantro, roughly chopped
+1/2 t salt
+```
 
 ## B) Examine the changes
 
-Open up Github Desktop and look at the left hand side. Under the Changes tab, you should see the name of the edited file followed by a yellow dot (which indicates the file has been edited). On the right hand side, you can see the contents of the edited file. Lines with a green background indicate an addition to the file while lines with a red background indicate a deletion. Lines with a white background have not been altered. For the salsa repository, I have:
+Open up Github Desktop and look at the left hand side. Under the Changes tab, you should see the name of the edited file followed by a yellow dot (which indicates the file has been edited). On the right hand side, you can see the contents of the edited file. Git tracks changes to each line of a file, and you can see those changes here. A green background indicates a line has been added to a file, while a red background indicates that a line has been deleted. Lines with a white background have not been altered. For the salsa repository, I have:
 
 INSERT FIGURE
 
