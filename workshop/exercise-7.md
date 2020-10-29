@@ -9,19 +9,19 @@ Sometimes, you might commit changes that break your code or analysis. Fortunatel
 
 ## A) Make a bad commit
 
-Edit a file in a way that messes up your project and commit it. For example, here I've accidentally modified the recipe to use 3 gallons of salt.
+Edit a file in a way that messes up your project and commit it. For example, here I've accidentally modified the ingredients list to use 3 gallons of salt.
 
-INSERT FIGURE
+<img src="..\assets\images\bad-commit.png" alt="The changes tab shows that the ingredient list has been altered to use 3 gallons of salt." style="max-width:700px;display:block">
 
 ## B) Revert the commit
 
 Open Github Desktop and open the "History" tab. Right click the bad commit and select the "Revert this commit" option. For example, here is how I would revert the bad commit in the salsa repository.
 
-INSERT FIGURE
+<img src="..\assets\images\revert.png" alt="In the history tab, the bad commit is selected. A dropdown menu includes the option to revert the commit." style="max-width:700px;display:block">
 
 This will add a new commit to the version history that undoes the changes made in the bad commit. For example, my version history now looks like:
 
-INSERT FIGURE
+<img src="..\assets\images\reverted.png" alt="In the history tab, the bad commit is reverted. The right side indicates that the ingredients list has changed back to its original state." style="max-width:700px;display:block">
 
 Note that you are not limited to reverting the most recent commit. You can revert ***any*** commit in your version history.
 
