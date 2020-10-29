@@ -11,7 +11,7 @@ Sometimes, there may be files in your local repository that you do not want to c
 
 As mentioned in exercise 3, Github is designed to track code and small text files rather than large databases. Consequently, trying to commit and push a file larger than 100MB will result in errors. However, large data files are common and often necessary in scientific research projects, so it can be useful to have them in the local repository without committing them.
 
-Some common file extensions for data files include: 
+Some common file extensions for data files include:
 * .dat,
 * .csv,
 * .xlsx,
@@ -28,7 +28,6 @@ Depending on your computer and the programs you use, various files can be automa
 * R: Could use some input here...
 * Python: Could use some input here...
 
-<br>
 # Gitignore
 
 You can use a .gitignore file to ensure that certain files / types of files are ignored in your repository. This is a **plain text file named ".gitignore"** stored at the root of your repository (in the same folder as the .gitattributes file and .git folder). I will focus on a few basic scenarios, but there are many complex options for using .gitignore files beyond the scope of this workshop. For those interested, the complete documentation for .gitignore can be found [here](https://git-scm.com/docs/gitignore) and a nice summary for the syntax can be found [here](https://www.atlassian.com/git/tutorials/saving-changes/gitignore).
@@ -63,7 +62,7 @@ My-Data-Folder/
 ```
 would ignore all files stored in "My-Data-Folder".
 
-# Summary
+### Summary
 
 Putting it all together, a real .gitignore might look something like this:
 ```
@@ -82,6 +81,10 @@ this-crummy-file.txt
 # Ignore anything in my database folder
 My-Data-Folder/
 ```
+
+<br>
+# New Vocabulary
+* **gitignore**: A plain text file named '.gitignore' located at the repository root specifying files that should be ignored.
 
 Alright, let's try it out!
 
