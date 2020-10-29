@@ -42,9 +42,11 @@ Note that you can examine the changes to different files by selecting them in th
 
 By making these commits, you've saved multiple versions of your work. Click on the "History" tab to see the version history for your project.
 
-INSERT FIGURE
+<img src="..\assets\images\history-tab.png" alt="A red arrow points to the history tab in the upper left of Github Desktop." style="max-width:700px;display:block">
 
 On the left hand side, you should see a list of all the commits you've made to the project. When you click on one of these commits, the middle of the screen will display the files changed in that commit, and the right side will show the changes to the selected file. For example, here is the version history for the commit where I added the ingredients list.
+
+<img src="..\assets\images\history1.png" alt="Github Desktop shows the version history of commits on the left side. The commit that increased boiling time is selected, and the file changes for that commit are displayed on the right side." style="max-width:700px;display:block">
 
 ## E) Version history via the remote repository
 

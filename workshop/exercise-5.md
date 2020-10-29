@@ -47,7 +47,7 @@ Use the commit box in the bottom left of Github desktop to commit the .gitignore
 
 ## E) Re-test the files
 
-Move the files back in to the repository. Open Github Desktop. The files should no longer appear under the changes tab. For my salsa repository, I now have:
+Move the files back in to the repository. Open Github Desktop. The files should no longer appear under the changes tab. For my salsa repository, I once again have:
 
 <img src="..\assets\images\repo-contents-ignore2.PNG" alt="A file browser for the salsa repository now has a file named .gitignore as well as the two data files." style="max-width:445px;display:block">
 
