@@ -19,7 +19,7 @@ This is because we have not yet uploaded our commit by pushing it to the cloud.
 
 Open Github Desktop. The top right tab should now say "Push origin" and display the number of commits waiting to be pushed. Click this tab to push your commits
 
-<img src="..\assets\images\push.PNG" alt="The top right tab in Github Desktop says 'Push Origin'. An arrow points at the tab." style="max-width:700px;display:block">
+<img src="..\assets\images\push.png" alt="The top right tab in Github Desktop says 'Push Origin'. An arrow points at the tab." style="max-width:700px;display:block">
 
 ## C) Re-examine the remote repository
 

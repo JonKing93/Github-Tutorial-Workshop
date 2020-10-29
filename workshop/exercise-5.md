@@ -19,7 +19,7 @@ and can see them under the "Changes" tab in Github Desktop.
 
 Note that Github Desktop cannot display the contents of these files because they are stored in a binary format. Again, Github is not designed to track changes to large files or data; it is primarily for plain text and code.
 
-It's worth commenting, that you could uncheck the files in Github Desktop to prevent them from being added to the next commit. For example, I could do:
+It's worth commenting that you could uncheck the files in Github Desktop to prevent them from being added to the next commit. For example, I could do:
 
 <img src="..\assets\images\uncheck-ignore.png" alt="The check boxes beside salsa-database.mat and chile-data.nc in the Changes tab have been unchecked." style="max-width:700px;display:block">
 
