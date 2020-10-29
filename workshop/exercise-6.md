@@ -24,7 +24,7 @@ Make some edits to a file in your repository. For example, I am adding a bit mor
 
 Open up Github Desktop and look at the left hand side. Under the Changes tab, you should see the name of the edited file followed by a yellow dot (which indicates the file has been edited). On the right hand side, you can see the contents of the edited file. Git tracks changes to each line of a file, and you can see those changes here. A green background indicates a line has been added to a file, while a red background indicates that a line has been deleted. Lines with a white background have not been altered. For the salsa repository, I have:
 
-INSERT FIGURE
+<img src="..\assets\images\track.png" alt="Github Desktop displays the 'ingredients.txt' file under the changes tab. The right side shows the contents of the file, along with red and green backgrounds that indicate the edits made." style="max-width:700px;display:block">
 
 You can use the red and green backgrounds to see how I changed the file.
 
@@ -32,7 +32,7 @@ You can use the red and green backgrounds to see how I changed the file.
 
 Commit your edited file and make at least two more commits. For example, I'm going to increase the boiling time to 10 minutes and update my research notes. Note that you can change multiple files with a single commit. For example, here I changed both the instructions and code files.
 
-INSERT FIGURE
+<img src="..\assets\images\track2.png" alt="Github Desktop shows that the recipe instructions and code file have changed. The changes to the instructions are shown on the right side." style="max-width:700px;display:block">
 
 Note that you can examine the changes to different files by selecting them in the "Changes" tab. For example, if I wanted to see the changes to salsa_verde.m, I would do:
 
