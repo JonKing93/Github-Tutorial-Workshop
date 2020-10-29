@@ -29,7 +29,7 @@ Head back to the remote repository. It should now include the newly added file. 
 
 ## D) Practice practice practice
 
-Add some more project files to your repository. Commit and push the new files. Note that you can add multiple files with a single commit. You don't have to do a separate commit for each individual file. For example, here I am adding several files to the salsa repository:
+Add some more project files to your repository. These could include markdown, code, figures, etc. so long as the file size is under 100MB. Commit and push the new files. Note that you can add multiple files with a single commit. You don't have to do a separate commit for each individual file. For example, here I am adding several files to the salsa repository:
 
 <img src="..\assets\images\add-file3.png" alt="Github Desktop shows the addition of three files: 1. ingredients.txt, 2. research-notes.txt, and 3. salsa_verde.m." style="max-width:700px;display:block">
 
