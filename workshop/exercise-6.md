@@ -50,21 +50,21 @@ On the left hand side, you should see a list of all the commits you've made to t
 
 ## E) Version history via the remote repository
 
-If you have not pushed your commits, go ahead and do so now. Head online to the remote repository and check out the code panel. Note that the text to the right of each file is the commit message for the most recent commit to alter the file.
+If you have not pushed your commits, go ahead and do so now. Head online to the remote repository and check out the code panel. Note that the text to the right of each file is the commit message for the most recent commit that altered the file.
 
-INSERT FIGURE
+<img src="..\assets\images\remote-history.png" alt="The code window of the remote repository displays the most recent commit message to the right of each file." style="max-width:700px;display:block">
 
 In the upper right corner is a "Commits" button. Click on it.
 
-INSERT FIGURE
+<img src="..\assets\images\history-button.png" alt="A red arrow points to the 'Commits' button in the upper right of the remote repository's code window." style="max-width:700px;display:block">
 
 This will also take you to the version history for the repository. For example, I have:
 
-INSERT FIGURE
+<img src="..\assets\images\remote-history2.png" alt="A version history for the salsa repository is displayed online." style="max-width:700px;display:block">
 
 for the salsa demo. Clicking on any of these commits will allow you to browse the changes made to the relevant files.
 
 
 A version history can be valuable for documenting progress and changes to a research project. However, it can also be useful for removing unwanted changes or updates that break your code. In the next exercise, we will see how to use the version history to revert bad commits.
 
-[Previous](exercise-5)---[Next](06-branch)
+[Previous](exercise-5)---[Next](exercise-7)
