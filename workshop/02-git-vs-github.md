@@ -13,7 +13,7 @@ could be used to save a new version of a project using a terminal.
 
 By contrast, Github is a company that implements a more user-friendly platform around the git tools. In particular, it uses a desktop app and website to implement version control. For example:
 
-<img src="..\assets\images\desktop-example.png" alt="A snapshot of Github Desktop." style="width:100%;display:block">
+<img src="..\assets\images\desktop-example.png" alt="A snapshot of Github Desktop.">
 
 is a snapshot of the desktop interface. In this workshop, we will focus exclusively on Github.
 
