@@ -18,15 +18,17 @@ INSERT FIGURE HIGHLIGHTING THE MERGE ZONE
 In many cases, merging is simple. As long as two branches do not alter the same lines of a file, the file can be merged seamlessly. For example, merging these two ingredients lists can be done automatically because they alter different lines of the file.
 
 <div style="display:flex;flex-flow:row wrap;justify-content:space-between">
-<pre class="highlight">
+<pre class="highlight" style="width:calc(50%-5px)">
 <code>Contents 1</code>
 </pre>
-<pre class="highlight">
+<pre class="highlight" style="width:calc(50%-5px)">
 <code>Contents 2</code>
 </pre>
 </div>
 ```
 Contents 3
+With a new line
+And another
 ```
 
 FILE CONTENTS EXAMPLE SIDE BY SIDE THEN MERGED
