@@ -11,11 +11,11 @@ In this exercise, we will create a new repository and examine its contents.
 
 Open Github Desktop, select the "File" dropdown menu and choose the "New Repository" option.
 
-<img src="..\assets\images\new.png" alt="Selecting a new repository from the file dropdown menu." style="max-width:374px;display:block">
+![Selecting a new repository from the file dropdown menu.](..\assets\images\new.png)
 
 After doing so, you will be presented with a window specifying options for creating the repository.
 
-<img src="..\assets\images\new-options.png" alt="A window with options for creating a new repository." style="max-width:419px;display:block">
+![A window with options for creating a new repository.](..\assets\images\new-options.png)
 
 Let's walk through the different fields.
 
@@ -53,7 +53,7 @@ Once you've finished with the fields, you're ready to create a repository. Go ah
 
 I'm going to use a demo project to help illustrate some of the exercises. My demo will be for a research project focusing on finding the best recipe for salsa verde. I'm going to name the demo repository "salsa-demo" and use the description: "This is my project for finding the best recipe for salsa verde". I'm going to initialize it with a README, but no .gitignore or license.
 
-<img src="..\assets\images\new-demo.png" alt="Creating a new repository for my demo project." style="max-width:419px;display:block">
+![Creating a new repository for my demo project.](..\assets\images\new-demo.png)
 
 <br>
 ## B) Explore the local repository
@@ -65,7 +65,8 @@ So you made a repository, nice! Go ahead and navigate to its folder on your comp
 3. A file named README.md
 
 For example, after creating my demo repository I have:
-<img src="..\assets\images\new-repo-contents.PNG" alt="Show a file browser for the 'salsa-demo' repository. Contents are a 'git' folder, 'gitattributes' file, and a 'README' file." style="max-width:453px;display:block">
+
+![Show a file browser for the 'salsa-demo' repository. Contents are a 'git' folder, 'gitattributes' file, and a 'README' file.](..\assets\images\new-repo-contents.PNG)
 
 The ".git" folder and ".gitattributes" file include various settings and files required to make git and Github work properly. In general, you won't need to interact with them. The file "README.md" is the file created when we selected the README checkbox. The ".md" signifies a "markdown" file, which is a human-readable text file that also supports some formatting options (like italics, bold, and links). If you're curious, go ahead and open it in a text editor. You should see the repository name followed by its description.
 
