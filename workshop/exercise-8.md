@@ -41,7 +41,7 @@ Click the "Publish" tab so that this new branch is also added to the remote repo
 
 Make at least two commits to the new branch and examine the version history. You should see all of the old commits plus the two new commits. For example, I updated the recipe instructions and edited the ingredients list on the "Roasted" branch. The version history shows these two new commits, as well as all my previous commits.
 
-INSERT FIGURE
+![The version history for the Roasted branch includes all the old commits plus two new ones.](..\assets\images\E8\roasted-history.png)
 
 ## D) Switch to the main branch
 
@@ -55,13 +55,13 @@ Select the main branch to switch branches. You can check that you have switched 
 
 Examine the version history for this branch. The two new commits should not be listed because they are on the other branch. For example, the edits to the recipe instructions and ingredients do not appear on this branch of my salsa repository.
 
-INSERT FIGURE
+![The history for the main branch does not include the two roasting commits.](..\assets\images\E8\main-history.png)
 
 ## E) Commit and compare branches
 
-Make a commit to the main branch; make this commit different from the two commits you made on the other branch. Examine the version history. You should see the new commit on the main branch, but not the commits made on the other branch. For example ???
+Make a commit to the main branch; make this commit different from the two commits you made on the other branch. Examine the version history. You should see the new commit on the main branch, but not the commits made on the other branch. For example:
 
-INSERT FIGURE
+![The main branch shows an update to the research notes, but not the roasting commits.](..\assets\images\E8\main-history-2.png)
 
 ## F) Push the two branches
 
@@ -75,17 +75,17 @@ Next, switch to the other branch and push it as well.
 
 ## G) Examine the branches on the remote repository
 
-Head online to the remote repository. In the upper left of the "Code" window is a button that lists the name of the currently displayed.
+Head online to the remote repository. In the upper left of the "Code" window is a button that lists the branch currently displayed.
 
-INSERT FIGURE
+![On the page for the remote salsa repository, an arrow points to a button in the top left of the code window. The button indicates that the page currently displays the main branch.](..\assets\images\E8\branch-button.png)
 
-Click on this button to display a list of the branches in your project. For example, I have
+Click on this button to display a list of the branches in your project. For example, mine lists the main and Roasted branches:
 
-INSERT FIGURE
+![A dropdown menu from the branches button for the remote salsa repository lists the main and 'Roasted' branches.](..\assets\images\E8\remote-branches.png)
 
-Click on a branch name to display that branch instead. For example, after clicking on the "Roasted" branch, my remote repository now displays:
+Click on a branch name to display that branch instead. For example, after clicking on the "Roasted" branch, my remote repository now displays the commits to the Roasted branch:
 
-INSERT FIGURE
+![The commit messages in the code window now show the updates for the Roasted branch.](..\assets\images\E8\remote-roasted.png)
 
 You can then use the website as usual to navigate the code for that branch.
 

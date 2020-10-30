@@ -25,11 +25,6 @@ In many cases, merging is simple. As long as two branches do not alter the same 
 <code>Contents 2</code>
 </pre>
 </div>
-```
-Contents 3
-With a new line
-And another
-```
 
 FILE CONTENTS EXAMPLE SIDE BY SIDE THEN MERGED
 
