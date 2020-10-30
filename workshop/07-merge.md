@@ -17,9 +17,19 @@ Note that when you perform a merge, the history of both branches are also combin
 
 ![The commits on the new feature branch have been added to the main branch after merging.](..\assets\images\07\merge-history.svg)
 
-# Merge conflicts
+# Automatic Merges
 
-In many cases, merging is simple. As long as two branches do not alter the same lines of a file, the file can be merged seamlessly. For example, merging these two ingredients lists can be done automatically because they alter different lines of the file.
+In many cases, merging is simple. As long as two branches do not alter the same lines of a file, the file can be merged seamlessly. For example, say this is the ingredients list at a branch point:
+```
+8 Tomatillos, peeled and washed
+2 Jalapenos, seeds and stems removed
+1/4 white onion
+2 garlic cloves, peeled
+1 bunch fresh cilantro, roughly chopped
+1/2 t salt
+```
+
+Then, the following two ingredients lists:
 
 <div style="display:flex;flex-flow:row wrap;justify-content:space-between;">
 
@@ -43,11 +53,54 @@ In many cases, merging is simple. As long as two branches do not alter the same 
 
 </div>
 
-FILE CONTENTS EXAMPLE SIDE BY SIDE THEN MERGED
+can be merged automatically because they alter different lines of the file. The left file changes the amount of jalapenos and garlic, while the right file alters the preparation instructions for the tomatillos. The file merged file would be:
+```
+8 Tomatillos, peeled washed and cut in half
+3 Jalapenos, seeds and stems removed
+1/4 white onion
+3 garlic cloves, peeled
+1 bunch fresh cilantro, roughly chopped
+1/2 t salt
+```
 
-However, attempting to merge two branches that alter the same part of a file will result in an error known as a **merge conflict**. For example, the following example would cause a merge conflict because both branches edit the ??? line.
 
-FILE CONTENTS SIDE BY SIDE
+# Merge conflicts
+
+However, sometimes files cannot be merged automatically. This occurs when two branches alter the same lines of a file. The git tools don't know which version of the line to use and cannot proceed; this situation is known as a **merge conflict**. For example, if the following file is the ingredient list at the branch point:
+
+```
+8 Tomatillos, peeled and washed
+2 Jalapenos, seeds and stems removed
+1/4 white onion
+2 garlic cloves, peeled
+1 bunch fresh cilantro, roughly chopped
+1/2 t salt
+```
+
+Then the following two files:
+
+<div style="display:flex;flex-flow:row wrap;justify-content:space-between;">
+
+<pre class="highlight" style="width:45%;">
+<code>8 Tomatillos, peeled and washed
+3 Jalapenos, seeds and stems removed
+1/4 white onion
+2 garlic cloves, peeled
+1 bunch fresh cilantro, roughly chopped
+1/2 t salt</code>
+</pre>
+
+<pre class="highlight" style="width:45%;">
+<code>8 Tomatillos, peeled and washed
+4 Jalapenos, seeds and stems removed
+1/4 white onion
+2 garlic cloves, peeled
+1 bunch fresh cilantro, roughly chopped
+1/2 t salt</code>
+</pre>
+
+</div>
+would cause a merge conflict because they both edit the jalapenos line.
 
 To resolve a merge conflict, choose a desired version of the line and copy it into the other branch.
 
