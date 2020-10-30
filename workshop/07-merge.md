@@ -15,7 +15,16 @@ INSERT FIGURE HIGHLIGHTING THE MERGE ZONE
 
 # Merge conflicts
 
-In many cases, merging is simple. As long as two branches do not alter the same lines of a file, the file can be merged seamlessly. For example,
+In many cases, merging is simple. As long as two branches do not alter the same lines of a file, the file can be merged seamlessly. For example, merging these two ingredients lists can be done automatically because they alter different lines of the file.
+
+<div style="display:flex;flex-flow:row wrap;justify-content:space-between">
+```
+Contents of file 1
+```
+```
+Contents of file 2
+```
+</div>
 
 FILE CONTENTS EXAMPLE SIDE BY SIDE THEN MERGED
 
