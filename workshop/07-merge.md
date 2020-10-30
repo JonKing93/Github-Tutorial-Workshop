@@ -25,6 +25,9 @@ Contents of file 1
 Contents of file 2
 ```
 </div>
+```
+Contents 3
+```
 
 FILE CONTENTS EXAMPLE SIDE BY SIDE THEN MERGED
 
