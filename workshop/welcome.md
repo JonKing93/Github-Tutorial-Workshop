@@ -21,6 +21,11 @@ Forking code and pull requests will not be a primary focus. Throughout the works
 3. You will need access to a plain text editor. For example: Notepad, Textedit, Atom, Vi, etc. (Please do not use MS Word).
 4. (Optional) Install any preferred coding environments (e.g MATLAB, Pycharm, RStudio, etc).
 
+## Workshop demos
+
+In this workshop, I will use several demos to illustrate how to use Github. If you would like to follow along with the demos, you can download the files used <a href="../demo-files.zip" download>here</a>.
+
+
 Alright, let's start the workshop!
 
 [Next](01-why-github)
