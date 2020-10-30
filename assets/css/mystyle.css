@@ -63,6 +63,12 @@ nav ul a:hover {
   text-decoration: underline;
 }
 
+/* The main section */
+main {
+  background: #fff;
+  min-height: calc(100% - 168px) /*168 is the footer plus the header*/
+}
+
 /* Footer */
 footer {
   background: #212121;
