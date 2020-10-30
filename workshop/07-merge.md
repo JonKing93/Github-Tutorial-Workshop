@@ -5,13 +5,17 @@ title: Branches
 
 # Merging branches
 
-As mentioned previously, you might branch your code so that you can maintain a working version while testing out new features that could break your code or analysis. However, once you finish developing the new features, you may want to consolidate the two branches.
+As mentioned previously, you might branch your code so that you can maintain a working version while testing out new features that could break your code or analysis. However, once you finish developing the new features, you may ready to consolidate the two branches.
 
-INSERT FIGURE OF TWO BRANCHES READY TO COMBINE
+![The main branch has a second branch for developing a new feature. The second branch has reached a commit labeled 'Finished new feature'.](..\assets\images\07\pre-merge.svg)
 
 This will ensure that your new features are incorporated into future analyses and will help keep your repository clean and easy to navigate. Combining two branches into one branch is known as **merging**.
 
-INSERT FIGURE HIGHLIGHTING THE MERGE ZONE
+![A line now joins the last commit of the new feature branch to the main branch. A commit at the end of this line is labeled 'Merge new feature'.](..\assets\images\07\merge.svg)
+
+Note that when you perform a merge, the history of both branches are also combined.
+
+![The commits on the new feature branch have been added to the main branch after merging.](..\assets\images\07\merge-history.svg)
 
 # Merge conflicts
 
