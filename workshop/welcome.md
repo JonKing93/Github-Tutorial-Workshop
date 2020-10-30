@@ -5,7 +5,7 @@ title: Welcome!
 
 # Welcome to the workshop!
 
-This workshop is designed to introduce scientists and researchers to the Github platform. We will learn how to use Github to save a version history of files, back up work to the cloud, work with collaborators on a project, and use multiple versions of the same file. In this workshop, we'll discuss:
+This workshop is designed to introduce scientists and researchers to the Github platform. We will learn how to use Github to save a version history of files, back up work to the cloud, share work with collaborators, and use multiple versions of the same file. In this workshop, we'll discuss:
 
 1. Fundamental git/Github concepts,
 2. Creating repositories for projects,
