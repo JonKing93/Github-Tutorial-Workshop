@@ -22,12 +22,25 @@ Note that when you perform a merge, the history of both branches are also combin
 In many cases, merging is simple. As long as two branches do not alter the same lines of a file, the file can be merged seamlessly. For example, merging these two ingredients lists can be done automatically because they alter different lines of the file.
 
 <div style="display:flex;flex-flow:row wrap;justify-content:space-between;">
+
 <pre class="highlight" style="width:45%;">
-<code>Contents 1</code>
+<code>8 Tomatillos, peeled and washed
+3 Jalapenos, seeds and stems removed
+1/4 white onion
+3 garlic cloves, peeled
+1 bunch fresh cilantro, roughly chopped
+1/2 t salt</code>
 </pre>
+
 <pre class="highlight" style="width:45%;">
-<code>Contents 2</code>
+<code>8 Tomatillos, peeled washed and cut in half
+2 Jalapenos, seeds and stems removed
+1/4 white onion
+2 garlic cloves, peeled
+1 bunch fresh cilantro, roughly chopped
+1/2 t salt</code>
 </pre>
+
 </div>
 
 FILE CONTENTS EXAMPLE SIDE BY SIDE THEN MERGED
