@@ -64,8 +64,9 @@ nav ul a:hover {
 }
 
 /* The main section */
-main > div{
-  min-height: calc(100% - 168px); /*168 is the footer plus the header*/
+main {
+  background: #fff;
+  min-height: calc(100vh - 168px); /*168 is the footer plus the header*/
 }
 
 /* Footer */
