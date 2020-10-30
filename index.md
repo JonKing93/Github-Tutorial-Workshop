@@ -1,6 +1,6 @@
 ---
-layout: title
-title: Github Workshop
+layout: redirect
+title: Redirect
 ---
 
-This website is under construction.
+If you are not redirected, please follow [this link](workshop/welcome).

@@ -1,0 +1,183 @@
+@import "reset-browser-defaults.css";
+@import "rouge-github.css";
+
+/* The maximum size of the main content pane should be 960 pixels
+(This is the size of the Github desktop pane used for screenshots) */
+.inner {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 20px 10px;
+}
+
+/* Use nice fonts. Also, set the default background color to white */
+body {
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 16px;
+  line-height: 1.5;
+  background: #fff;
+  box-sizing: border-box;
+}
+
+/* Navigation Bar.*/
+nav {
+  background: #212121;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: calc(100% - 115px);
+}
+nav a {
+  line-height: 40px;
+  text-decoration: none;
+}
+nav ul a {
+  color: Silver;
+  font-size: 25px;
+  font-weight: 900;
+  padding: 0 5px;
+  border-radius: 4px;
+}
+nav ul a:hover {
+  color: #212121;
+  background: Silver;
+  text-decoration: none;
+}
+#forklink {
+  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 0 50px 0 5px;
+  border-radius: 0 0 0 4px;
+  flex: 0 0 115px;
+}
+#forklink:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background: #212121;
+  color: #f2f2f2
+}
+footer p {
+  margin: 10px 0 15px 0;
+}
+footer a {
+  color: #f2f2f2;
+  text-decoration: underline;
+}
+
+/* General settings */
+
+/* Headers and paragraphs*/
+h1, h2, h3, h4, h5, h6 {
+  margin: 10px 0;
+  font-weight: 700;
+  color:#222222;
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  letter-spacing: -1px;
+}
+h1 { font-size: 36px; }
+h2 { font-size: 32px; }
+h3 { font-size: 24px; }
+h4 { font-size: 21px; }
+h5 { font-size: 18px; }
+h6 { font-size: 16px; }
+p { margin: 10px 0 15px 0; }
+
+/* Links */
+a {
+  text-decoration: none;
+  color: #0F79D0;
+  text-shadow: none;
+
+  transition: color 0.5s ease;
+  transition: text-shadow 0.5s ease;
+  -webkit-transition: color 0.5s ease;
+  -webkit-transition: text-shadow 0.5s ease;
+  -moz-transition: color 0.5s ease;
+  -moz-transition: text-shadow 0.5s ease;
+  -o-transition: color 0.5s ease;
+  -o-transition: text-shadow 0.5s ease;
+  -ms-transition: color 0.5s ease;
+  -ms-transition: text-shadow 0.5s ease;
+}
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+/* Images should be centered blocks. They should never scale over their max size
+but should be able to get smaller. */
+img {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+  height: auto;
+  padding: 5px 0;
+
+  border: 1px solid #ebebeb;
+  box-shadow: 0 0 5px #ebebeb;
+  -webkit-box-shadow: 0 0 5px #ebebeb;
+  -moz-box-shadow: 0 0 5px #ebebeb;
+  -o-box-shadow: 0 0 5px #ebebeb;
+  -ms-box-shadow: 0 0 5px #ebebeb;
+}
+
+/* Bold and italic */
+em, cite {
+  font-style: italic;
+}
+strong {
+  font-weight: bold;
+}
+
+/* Code blocks */
+pre, code {
+  color: #222;
+  background-color: #fff;
+
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-size: 0.875em;
+
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+}
+pre {
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,.1);
+  overflow: auto;
+}
+code {
+  padding: 3px;
+  margin: 0 3px;
+  box-shadow: 0 0 10px rgba(0,0,0,.1);
+}
+pre code {
+  display: block;
+  box-shadow: none;
+}
+
+/* Lists */
+ul, ol {
+  margin-bottom: 15px
+}
+ul {
+  list-style-position: inside;
+  list-style: disc;
+  padding-left: 20px;
+}
+ol {
+  list-style-position: inside;
+  list-style: decimal;
+  padding-left: 20px;
+}
