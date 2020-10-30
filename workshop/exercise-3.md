@@ -15,7 +15,7 @@ Move a project file into the local repository on your computer. This can be almo
 
 I'm going to add a file named "ingredients.txt" to my demo repository.
 
-<img src="..\assets\images\repo-contents-2.PNG" alt="A file browser for the salsa repository now includes a file named 'ingredients.txt'." style="max-width:450px;display:block">
+![A file browser for the salsa repository now includes a file named 'ingredients.txt'.](..\assets\images\E3\repo-contents-2.png)
 
 This is the ingredients list for my salsa recipe. The contents of ingredients.txt are:
 
@@ -32,16 +32,18 @@ This is the ingredients list for my salsa recipe. The contents of ingredients.tx
 
 Open up Github Desktop. On the left side, under the "Changes" tab, you should see the name of the new file. The file name should be followed by a green plus, indicating that this is a new addition to the repository. On the right side, you can see the contents of the new file. For example, I have:
 
-<img src="..\assets\images\add-file.PNG" alt="Github desktop shows the name of the new 'ingredients.txt' file on the left side, and the contents of the file on the right side." style="max-width:700px;display:block">
+![Github desktop shows the name of the new 'ingredients.txt' file on the left side, and the contents of the file on the right side.](..\assets\images\E3\add-file.png)
 
 ## C) Commit the new file
 
 We're going to commit this file so that it's added to the repository. This way, Github will be able to track any future changes we make. At the bottom left of Github desktop, you should see the commit interface.
 
-<img src="..\assets\images\commit.png" alt="A snapshot of Github Desktop with an arrow point to the commit interface in the bottom left." style="max-width:700px;display:block">
+![A snapshot of Github Desktop with an arrow point to the commit interface in the bottom left.](..\assets\images\E3\commit.png)
 
 Zooming in, you can see that the commit interface consists of three pieces:
-<img src="..\assets\images\commit-box.PNG" alt="A zoomed view of the Github Desktop commit interface with three fields." style="max-width:241px;display:block">
+
+![A zoomed view of the Github Desktop commit interface with three fields.](..\assets\images\E3\commit-box.png)
+
 
 ### Commit message
 The top field in the interface is the commit message. This is required for every commit and lets you record the changes you've made to the project.
@@ -54,7 +56,7 @@ Once you finish the commit message (and optionally the description), click the b
 
 Go ahead and fill out the commit message and click the button to make the commit. For example, I used:
 
-<img src="..\assets\images\demo-add.PNG" alt="A zoomed view of the Github Desktop commit interface the commit message filled out. The message indicates that an ingredient list was added to the demo." style="max-width:242px;display:block">
+![A zoomed view of the Github Desktop commit interface the commit message filled out. The message indicates that an ingredient list was added to the demo.](..\assets\images\E3\demo-add.png)
 
 Congratulations, you just made your first commit! In the next exercise, we will push the commit so that the new file is backed up online.
 
