@@ -9,6 +9,6 @@ Alright, you've finished the tutorial. Nice work! If you were following along wi
 
 # Survey
 
-We'll use the remaining time to implement Github for people's real projects and for troubleshooting. However, before we start the open session, please fill out the survey at INSERT LINK. And thank you all for attending!
+We'll use the remaining time to implement Github for people's projects and for troubleshooting. However, before we start the open session, please fill out the survey at INSERT LINK. And thank you all for attending!
 
 [Previous](exercise-9)---[Workshop Beginning](welcome)
