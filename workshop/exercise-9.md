@@ -49,6 +49,7 @@ For example, I've created a merge conflict in the salsa demo by updating the amo
   </div>
 
   <div style="width:45%;">
+    In the roasted branch:
     <pre class="highlight">
       <code>
 8 Tomatillos, peeled washed and cut in half
