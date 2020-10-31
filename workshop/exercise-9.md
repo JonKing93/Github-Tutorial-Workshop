@@ -23,7 +23,7 @@ This opens a window that lets you select a branch to merge into the main branch.
 
 If Github cannot automatically merge the files, it will display a warning symbol.
 
-INSERT FIGURE
+![The merge window shows a warning symbol and indicates that there are conflicted files.](..\assets\images\E9\merge-conflict.png)
 
 If this is the case, skip ahead to [part D](#D--Resolve-a-merge-conflict).
 
@@ -38,7 +38,7 @@ For example, I've created a merge conflict in the salsa demo by updating the amo
     In the main branch:
     <pre class="highlight">
       <code>
-8 Tomatillos, peeled and washed
+8 Tomatillos, peeled washed and cut in half
 2 Jalapenos, seeds and stems removed
 1/4 white onion
 3 garlic cloves, peeled
@@ -67,13 +67,9 @@ Once you've created a merge conflict, switch to the main branch and attempt to m
 
 ## D) Resolve a merge conflict
 
-If you've caused a merge conflict, then Github Desktop will display a warning message above the merge button. Go ahead and click the merge button anyways.
+If you've caused a merge conflict, then Github Desktop will display a warning message above the merge button. Go ahead and click the merge button anyways. This will open a window that lists the conflicted files. For example:
 
-INSERT FIGURE
-
-This will open a window that will list the conflicted files. For example:
-
-INSERT FIGURE
+![A file browser indicates that the ingredient.txt file is causing the merge conflict.](..\assets\images\E9\browse-conflict.png)
 
 To the right of each conflicted files are two buttons. The first will open the conflicted file in an editor so you can try to correct the conflicting line. If you know that you prefer the version on one branch, you can click the down arrow to specify the desired branch directly.
 
