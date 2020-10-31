@@ -25,7 +25,7 @@ If Github cannot automatically merge the files, it will display a warning symbol
 
 ![The merge window shows a warning symbol and indicates that there are conflicted files.](..\assets\images\E9\merge-conflict.png)
 
-If this is the case, skip ahead to [part D](#D--Resolve-a-merge-conflict).
+If this is the case, skip ahead to [part D](#d-resolve-a-merge-conflict).
 
 ## C) Create a merge conflict
 
