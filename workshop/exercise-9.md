@@ -79,6 +79,6 @@ Once the merge conflict is resolved, you will be able to use the "Commit Merge" 
 
 ![In the conflict browser, an arrow points at the 'Abort merge' button.](..\assets\images\E9\abort.png)
 
-If you do decide to resolve the conflict manually, one easy way to fix the problem is to copy the desired file contents from one branch to the other.
+If you do decide to resolve the conflict manually, one way to fix the problem is to copy the desired file contents from one branch to the other.
 
 [Previous](exercise-8)---[Next](conclusion)
