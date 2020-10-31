@@ -67,7 +67,7 @@ Once you've created a merge conflict, switch to the main branch and attempt to m
 
 ## D) Resolve a merge conflict
 
-If you've caused a merge conflict, then Github Desktop will display a warning message above the merge button. Go ahead and click the merge button anyways. This will open a window that lists the conflicted files. For example:
+As we saw in part B, if you've caused a merge conflict, then Github Desktop will display a warning message above the merge button. Go ahead and click the merge button anyways. This will open a window that lists the conflicted files. For example:
 
 ![A file browser indicates that the ingredient.txt file is causing the merge conflict.](..\assets\images\E9\browse-conflict.png)
 
