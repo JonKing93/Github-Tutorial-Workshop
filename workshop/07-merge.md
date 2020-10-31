@@ -13,7 +13,7 @@ This will ensure that your new features are incorporated into future analyses an
 
 ![A line now joins the last commit of the new feature branch to the main branch. A commit at the end of this line is labeled 'Merge new feature'.](..\assets\images\07\merge.svg)
 
-Note that when you perform a merge, the history of both branches are also combined.
+Note that when you perform a merge, the histories of the two branches are also combined.
 
 ![The commits on the new feature branch have been added to the main branch after merging.](..\assets\images\07\merge-history.svg)
 
@@ -53,7 +53,7 @@ Then, the following two ingredients lists:
 
 </div>
 
-can be merged automatically because they alter different lines of the file. The left file changes the amount of jalapenos and garlic, while the right file alters the preparation instructions for the tomatillos. The file merged file would be:
+can be merged automatically because they alter different lines of the file. The left file changes the amount of jalapenos and garlic, while the right file alters the preparation instructions for the tomatillos. The final merged file would be:
 ```
 8 Tomatillos, peeled washed and cut in half
 3 Jalapenos, seeds and stems removed
@@ -66,7 +66,7 @@ can be merged automatically because they alter different lines of the file. The 
 
 # Merge conflicts
 
-However, sometimes files cannot be merged automatically. This occurs when two branches alter the same lines of a file. The git tools don't know which version of the line to use and cannot proceed; this situation is known as a **merge conflict**. For example, if the following file is the ingredient list at the branch point:
+However, sometimes files cannot be merged automatically. This occurs when two branches alter the same lines of a file in different ways. When this happens, git doesn't know which version of the line to use and cannot proceed; this situation is known as a **merge conflict**. For example, if the following file is the ingredient list at the branch point:
 
 ```
 8 Tomatillos, peeled and washed
@@ -100,7 +100,7 @@ Then the following two files:
 </pre>
 
 </div>
-would cause a merge conflict because they both edit the jalapenos line.
+would cause a merge conflict because they both edit the jalapeno line in different ways.
 
 To resolve a merge conflict, choose a desired version of the line and copy it into the other branch.
 
@@ -112,4 +112,4 @@ To resolve a merge conflict, choose a desired version of the line and copy it in
 
 In the next exercise, we will practice merging branches and resolving a merge conflict.
 
-[Previous](exercise-8)---[next](exercise-9)
+[Previous](exercise-8)---[Next](exercise-9)

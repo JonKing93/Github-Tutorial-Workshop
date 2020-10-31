@@ -15,11 +15,11 @@ Let's merge the new branch into the "main" branch. This will integrate the commi
 
 Click on the "Branches" tab again. At the very bottom is a button that should say "Choose a branch to merge into main". Click on that button.
 
-INSERT FIGURE
+![An arrow points to the merge button at the bottom of the branches dropdown menu.](..\assets\images\E9\merge-button.png)
 
 This opens a window that lets you select a branch to merge into the main branch. Select the other branch. Github Desktop will decide if it can automatically merge the two branches. If so, it will display a green check mark. If this is the case, go ahead and click the merge button to merge the two branches.
 
-INSERT FIGURE
+![The merge branch window shows a green check to indicate that the branches can automatically merge.](..\assets\images\E9\automerge.png)
 
 If Github cannot automatically merge the files, it will display a warning symbol.
 
@@ -33,9 +33,32 @@ We're going to now simulate a merge conflict so you can practice resolving it. S
 
 For example, I've created a merge conflict in the salsa demo by updating the amount of garlic in the two branches with different amounts.
 
-INSERT CONTENTS
+<div style="display:flex;flex-flow:row wrap;justify-content:space-between;">
+  <div style="width:45%;">
+    In the main branch:
+    <pre class="highlight">
+      <code>8 Tomatillos, peeled and washed
+      2 Jalapenos, seeds and stems removed
+      1/4 white onion
+      3 garlic cloves, peeled
+      1 bunch fresh cilantro, roughly chopped
+      1/2 t salt</code>
+    </pre>
+  </div>
 
-Now switch to the main branch and attempt to merge the other branch.
+  <div style="width:45%;">
+    <pre class="highlight">
+      <code>8 Tomatillos, peeled washed and cut in half
+      2 Jalapenos, seeds and stems removed
+      1/4 white onion
+      4 garlic cloves, peeled
+      1 bunch fresh cilantro, roughly chopped
+      1/2 t salt</code>
+    </pre>
+  </div>
+</div>
+
+Once you've created a merge conflict, switch to the main branch and attempt to merge the other branch.
 
 ## D) Resolve a merge conflict
 
