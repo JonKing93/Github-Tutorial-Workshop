@@ -37,23 +37,27 @@ For example, I've created a merge conflict in the salsa demo by updating the amo
   <div style="width:45%;">
     In the main branch:
     <pre class="highlight">
-      <code>8 Tomatillos, peeled and washed
-      2 Jalapenos, seeds and stems removed
-      1/4 white onion
-      3 garlic cloves, peeled
-      1 bunch fresh cilantro, roughly chopped
-      1/2 t salt</code>
+      <code>
+8 Tomatillos, peeled and washed
+2 Jalapenos, seeds and stems removed
+1/4 white onion
+3 garlic cloves, peeled
+1 bunch fresh cilantro, roughly chopped
+1/2 t salt
+      </code>
     </pre>
   </div>
 
   <div style="width:45%;">
     <pre class="highlight">
-      <code>8 Tomatillos, peeled washed and cut in half
-      2 Jalapenos, seeds and stems removed
-      1/4 white onion
-      4 garlic cloves, peeled
-      1 bunch fresh cilantro, roughly chopped
-      1/2 t salt</code>
+      <code>
+8 Tomatillos, peeled washed and cut in half
+2 Jalapenos, seeds and stems removed
+1/4 white onion
+4 garlic cloves, peeled
+1 bunch fresh cilantro, roughly chopped
+1/2 t salt
+      </code>
     </pre>
   </div>
 </div>
