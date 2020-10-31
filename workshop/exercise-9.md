@@ -78,3 +78,7 @@ To the right of each conflicted files are two buttons. The first will open the c
 Once the merge conflict is resolved, you will be able to use the "Commit Merge" button to merge the branches. Alternatively, if you want to resolve the conflict some other way, or just want to work on the conflict later, you can cancel the merge by clicking the "Abort Merge" button.
 
 ![In the conflict browser, an arrow points at the 'Abort merge' button.](..\assets\images\E9\abort.png)
+
+If you do decide to resolve the conflict manually, one easy way to fix the problem is to copy the desired file contents from one branch to the other.
+
+[Previous](exercise-8)---[Next](conclusion)
