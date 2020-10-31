@@ -34,7 +34,7 @@ We're going to now simulate a merge conflict so you can practice resolving it. S
 For example, I've created a merge conflict in the salsa demo by updating the amount of garlic in the two branches with different amounts.
 
 <div style="display:flex;flex-flow:row wrap;justify-content:space-between;">
-  <div style="width:45%;">
+  <div style="width:48%;">
     In the main branch:
     <pre class="highlight">
       <code>
@@ -48,7 +48,7 @@ For example, I've created a merge conflict in the salsa demo by updating the amo
     </pre>
   </div>
 
-  <div style="width:45%;">
+  <div style="width:48%;">
     In the roasted branch:
     <pre class="highlight">
       <code>
