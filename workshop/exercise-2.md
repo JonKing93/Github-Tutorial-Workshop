@@ -19,7 +19,7 @@ If your current repository is something other than the new repository, click on 
 
 Now look at the right tab. It should be marked with the option "Publish Repository". Click on the tab
 
-![The right tab lists the option to publish the repository.](..\assets\images\right-tab.png)
+![The right tab lists the option to publish the repository.](..\assets\images\E2\right-tab.png)
 
 This will open a box showing the name and description of the repository. There is also an option to make the repository public or private. (There is also an option to publish to a Github Enterprise server instead of Github.com, but we will not be using this for the workshop.)
 
@@ -27,7 +27,7 @@ This will open a box showing the name and description of the repository. There i
 
 Make the selections you find appropriate and click the "Publish Repository" button. For the demo, I am choosing to use a public repository, so I will use:
 
-![The publishing window filled out with the description of the salsa repository.](..\assets\images\E2\demo-publish.png)
+![The publishing window filled out with the description of the salsa repository.](..\assets\images\E2\publish-demo.png)
 
 before clicking the publish button.
 
