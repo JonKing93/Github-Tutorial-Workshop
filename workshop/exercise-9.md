@@ -25,7 +25,7 @@ If Github cannot automatically merge the files, it will display a warning symbol
 
 INSERT FIGURE
 
-If this is the case, skip ahead to [part D](# D--Resolve-a-merge-conflict).
+If this is the case, skip ahead to [part D](#D--Resolve-a-merge-conflict).
 
 ## C) Create a merge conflict
 
