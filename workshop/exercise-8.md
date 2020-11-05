@@ -5,7 +5,7 @@ title: Exercise 8
 
 # Exercise 8: Branches
 
-In this exercise, we will create separate commits and add changes to them.
+In this exercise, we will create separate branches and add commits to them.
 
 ## A) Examine the current branch
 
