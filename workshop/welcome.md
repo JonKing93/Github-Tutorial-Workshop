@@ -12,7 +12,7 @@ This workshop is designed to introduce scientists and researchers to the Github 
 3. Backing up projects with documentation and version control, and
 4. Organizing simultaneous versions of files (i.e. branches).
 
-Forking code and pull requests will not be a primary focus. Throughout the workshop, I will use a demo project to illustrate key concepts. However, you are strongly encouraged to bring your own projects for the exercises.
+Forking code and pull requests will not be a primary focus. Throughout the workshop, I will use a demo project to illustrate key concepts. However, you are welcome to use your own projects for the exercises.
 
 ### Prerequisites
 
