@@ -71,7 +71,7 @@ As we saw in part B, if you've caused a merge conflict, then Github Desktop will
 
 ![A file browser indicates that the ingredient.txt file is causing the merge conflict.](..\assets\images\E9\browse-conflict.png)
 
-To the right of each conflicted file are two buttons with two sections. The first will open the conflicted file in an editor so you can try to correct the conflicting line. If you know that you prefer the version on one branch, you can click the second, (a down arrow button) to specify the desired branch directly. For example, I could select the main branch as the correct branch:
+To the right of each conflicted file are two buttons. The first will open the conflicted file in an editor so you can try to correct the conflicting line. If you know that you prefer the version on one branch, you can click the second button (a down arrow) to select the desired branch directly. For example, I could select the main branch as the correct branch:
 
 ![Within the merge conflict browser, a dropdown menu has the option to use the ingredients file from the main branch or Roasted branch. The main branch is selected.](..\assets\images\E9\resolve.png)
 
