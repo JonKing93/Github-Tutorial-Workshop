@@ -61,7 +61,7 @@ I'm going to use a demo project to help illustrate some of the exercises. My dem
 So you made a repository, nice! Go ahead and navigate to its folder on your computer (remember, this is wherever we set the local path). Inside you should see three items
 
 1. A folder named ".git",
-2. A file named .gitattributes
+2. A file named .gitattributes, and
 3. A file named README.md
 
 For example, after creating my demo repository I have:

@@ -60,6 +60,7 @@ This page includes many options for interacting with your project, such as:
 2. Collaborative coding,
 3. Creating software releases,
 4. Organizing projects into a package,
+
 and many other features. These features are mostly beyond the scope of this workshop, but I'd encourage you to explore them on your own time.
 
 For now, we'll just focus on one feature. In the center of the page, you should see a list of the files in your repository. For example:
@@ -68,6 +69,6 @@ For now, we'll just focus on one feature. In the center of the page, you should 
 
 We can see that the repository is currently tracking two files: the ".gitattributes" file and the README.
 
-Now that you have a remote repository, you can start building your project and tracking changes. In the next exercise, we will commit some new files to the project and commit them to the remote repository.
+Now that you have a remote repository, you can start building your project and tracking changes. In the next exercise, we will commit some new files to the project and push them to the remote repository.
 
 [Previous](exercise-1)---[Next](exercise-3)
