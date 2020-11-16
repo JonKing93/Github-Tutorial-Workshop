@@ -11,8 +11,6 @@ Now that we've created and published the repository, we're going to start adding
 
 Move a project file into the local repository on your computer. This can be almost anything, but a code file is a good place to start.
 
-**Important**: Github is designed to manage code, not large databases. Trying to commit files larger than 100MB will cause errors, so stick with something small for now. Later in [Exercise 5](exercise-5), we will see how to use a [.gitignore](05-gitignore) to add large files to a local repository without committing them.
-
 I'm going to add a file named "ingredients.txt" to my demo repository.
 
 ![A file browser for the salsa repository now includes a file named 'ingredients.txt'.](..\assets\images\E3\repo-contents-2.png)
@@ -27,6 +25,8 @@ This is the ingredients list for my salsa recipe. The contents of ingredients.tx
 1 bunch fresh cilantro
 1/2 t salt
 ```
+
+**Important**: Github is designed to manage code, not large databases. Trying to commit files larger than 100MB will cause errors, so stick with something small for now. Later in [Exercise 5](exercise-5), we will see how to use a [.gitignore](05-gitignore) to add large files to a local repository without committing them.
 
 ## B) Examine the new file
 
