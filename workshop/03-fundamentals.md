@@ -17,7 +17,7 @@ To begin: In order to use Github, the files for a project should be stored in a 
 
 To work on a project, you will need to download the repository to your computer. The repository on your computer is known as the **local repository**. The action of copying the remote repository to your computer is known as **cloning**.
 
-![An arrow points from the remote to a second folder with files on the user's local computer. The arrow is labeld 'clone'. The folder on the local computer is labeled 'local'.](..\assets\images\03\clone.svg).
+![An arrow points from the remote to a second folder with files on the user's local computer. The arrow is labeld 'clone'. The folder on the local computer is labeled 'local'.](..\assets\images\03\clone.svg)
 
 ### Commit
 
