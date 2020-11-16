@@ -5,7 +5,7 @@ title: Exercise 3
 
 # Exercise 3: Commit new files to the repository
 
-Now that we've created and published the repository, we're going to start adding the files for our project.
+Now that we've created and published the repository, we're going to start adding the files for our project. Again, if you would like to follow along with the demo, you can download the demo files <a href="../demo-files/demo-files.zip" download>here</a>.
 
 ## A) Add a file to the local repository
 
