@@ -26,8 +26,8 @@ but there are many more.
 Depending on your computer and the programs you use, various files can be automatically created in your local repository. Some examples include:
 * Macs: .DS_Store (contains information for file browsing)
 * Matlab: .asv (an autosave file)
-* R: Could use some input here...
-* Python: Could use some input here...
+* R: .Rproj (RStudio project files)
+* Python: .pyc (Python cache files)
 
 <br>
 # Gitignore
