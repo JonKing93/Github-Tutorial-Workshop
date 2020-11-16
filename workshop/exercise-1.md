@@ -5,7 +5,7 @@ title: Exercise 1
 
 # Exercise 1: Create a new repository
 
-In this exercise, we will create a new repository and examine its contents.
+In this exercise, we will create a new repository and examine its contents. Again, if you would like
 
 ## A) Create a new repository
 
@@ -31,11 +31,11 @@ A short 1-2 sentence description of the project that will be organized in this r
 
 In order to track changes to a project, Github needs the contents of the project to be stored in a folder. This field specifies the location of that folder. You can either create a completely new folder (if building a project from scratch), or specify an existing folder on your computer that already contains a project.
 
-For this workshop, go ahead and create a completely new folder so we can build a repository from scratch. Choose somewhere easy to access so you can return to this project throughout the workshop.
+For this workshop, I'd suggest creating a completely new folder so you can build a repository from scratch. Choose somewhere easy to access so you can return to this project throughout the workshop.
 
 ### Initialize with README
 
-The next option is a checkbox indicating whether to initialize the project with a README file. A readme is a text document that can provide a summary or information about a project. Think of it as analogous to the abstract in a scientific paper. Creating a README is optional, but recommended and common practice with Github. For this workshop, go ahead and select the checkbox so that the repository includes a README.
+The next option is a checkbox indicating whether to initialize the project with a README file. A README is a text document that can provide a summary or information about a project. Think of it as analogous to the abstract in a scientific paper. Creating a README is optional, but recommended and common practice for Github. For this workshop, go ahead and select the checkbox so that the repository includes a README.
 
 ### Gitignore
 
