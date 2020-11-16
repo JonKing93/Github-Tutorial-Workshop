@@ -49,7 +49,7 @@ Zooming in, you can see that the commit interface consists of three pieces:
 The top field in the interface is the commit message. This is required for every commit and lets you record the changes you've made to the project.
 
 ### Commit description
-The middle of the interface is a field that lets you provide a more detailed description of the commit. This is optional but lets you provide more details about changes. You can also acknowledge collaborators for the commit using the button in the bottom left.
+The middle of the interface is a field that lets you provide a more detailed description of the commit. This is optional but lets you go into depth about changes. You can also acknowledge collaborators for the commit using the button in the bottom left.
 
 ### Commit button
 Once you finish the commit message (and optionally the description), click the button to make the commit.
