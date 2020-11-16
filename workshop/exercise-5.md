@@ -27,7 +27,7 @@ to prevent the files from being added to the next commit. However, I would need 
 
 ## B) Create a .gitignore file
 
-Create a new file named ".gitignore" in the root of your repository. For example
+Create a new file named ".gitignore" in the top level of your repository. For example
 
 ![A file browser for the salsa repository now has a file named .gitignore.](..\assets\images\E5\new-ignore.png)
 
