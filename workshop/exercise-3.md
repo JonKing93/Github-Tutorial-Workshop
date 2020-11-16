@@ -36,7 +36,7 @@ Open up Github Desktop. On the left side, under the "Changes" tab, you should se
 
 ## C) Commit the new file
 
-We're going to commit this file so that it's added to the repository. This way, Github will be able to track any future changes we make. At the bottom left of Github desktop, you should see the commit interface.
+We're going to commit this file so that it's saved in the repository. This way, Github will be able to track any future changes we make. At the bottom left of Github desktop, you should see the commit interface.
 
 ![A snapshot of Github Desktop with an arrow point to the commit interface in the bottom left.](..\assets\images\E3\commit.png)
 
