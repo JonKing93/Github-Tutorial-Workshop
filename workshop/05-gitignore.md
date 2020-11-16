@@ -29,7 +29,7 @@ Depending on your computer and the programs you use, various files can be automa
 * R: .Rproj (RStudio project files)
 * Python: .pyc (Python cache files)
 
-
+<br>
 # Gitignore
 
 You can use a .gitignore file to ensure that certain files / types of files are ignored in your repository. This is a **plain text file named ".gitignore"** stored in the top level of your repository (the same folder as the .gitattributes file and .git folder). I will only focus on a few basic scenarios in the workshop, but there are many complex options for using .gitignore files. For those interested, the complete documentation for .gitignore can be found [here](https://git-scm.com/docs/gitignore) and a nice summary for the syntax can be found [here](https://www.atlassian.com/git/tutorials/saving-changes/gitignore).
