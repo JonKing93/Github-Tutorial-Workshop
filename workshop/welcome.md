@@ -12,18 +12,19 @@ This workshop is designed to introduce scientists and researchers to the Github 
 3. Backing up projects with documentation and version control, and
 4. Organizing simultaneous versions of files (i.e. branches).
 
-Forking code and pull requests will not be a primary focus. Throughout the workshop, I will use a demo project to illustrate key concepts. However, you are welcome to use your own projects for the exercises.
+Forking code and pull requests will not be a primary focus.
 
+<br>
 ### Prerequisites
 
 1. Please [sign up for a Github account](https://github.com) if you do not already have one.
-2. Please also [install the Github Desktop App](https://desktop.github.com/) on your computer.
+2. Please also [install Github Desktop](https://desktop.github.com/) on your computer.
 3. You will need access to a plain text editor. For example: Notepad, Textedit, Atom, Vi, etc. (Please do not use MS Word).
-4. (Optional) Install any preferred coding environments (e.g MATLAB, Pycharm, RStudio, etc).
 
-## Workshop demos
+<br>
+### Workshop demos
 
-In this workshop, I will use several demos to illustrate how to use Github. If you would like to follow along with the demos, you can download the files used <a href="../demo-files/demo-files.zip" download>here</a>.
+In this workshop, I will use several demos to illustrate how to use Github. If you would like to follow along with the demos, you can download the files used <a href="../demo-files/demo-files.zip" download>here</a>. However, you are also welcome to use your own projects for the exercises.
 
 
 Alright, let's start the workshop!
