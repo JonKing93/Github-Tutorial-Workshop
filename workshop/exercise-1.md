@@ -43,7 +43,9 @@ We'll come back to this later, but it's possible to specify certain files or typ
 
 ### License
 
-This box has options for automatically choosing a license for your project. A detailed discussion of licenses is beyond the scope of this workshop, but I'd encourage you to learn about them separately. For the most part, using no license retains the rights to a work with you. If you already know a license you'd like to use, go ahead and select it now. Otherwise, just leave this box as "None".
+This box has options for automatically choosing a license for your project. A detailed discussion of licenses is beyond the scope of this workshop, but I'd encourage you to learn about them separately. If you are interested, [this site](https://choosealicense.com/) can help you choose a license, and you find a more in-depth discussion about licenses [here](https://opensource.org/licenses).
+
+If you're not sure what to use, just leave this box as "None". For the most part, using no license retains the rights to a work with you. However, projects without a license aren't actually open source, so it's best to only use this as a temporary measure until you decide on a license.
 
 ### Create
 

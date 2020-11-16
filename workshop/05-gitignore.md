@@ -18,6 +18,7 @@ Some common file extensions for data files include:
 * .nc,
 * .mat, and
 * .hdf,
+
 but there are many more.
 
 ### 2. Automatically generated files
