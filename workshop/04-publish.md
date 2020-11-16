@@ -9,7 +9,7 @@ Our discussion of Github fundamentals began with the assumption that you have a 
 
 ![An arrow pointing to the remote repository asking where it came from.](..\assets\images\04\how-remote.svg)
 
- In most cases, you will need to create a new repository on your computer and **publish** it. **Publishing** creates the repository on the cloud that you can use to back up and share code.
+ In most cases, you will need to create a new repository on your computer and **publish** it. **Publishing** creates the repository on the cloud that you can use to back up and share your work.
 
  ![An arrow pointing from a new repository on the local computer to a remote repository on the cloud. The arrow is labeled 'publish'.](..\assets\images\04\publish.svg)
 
