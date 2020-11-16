@@ -7,6 +7,7 @@ title: Git vs Github
 
 A quick aside: You may have seen references to "git" in addition to "Github". These are not the same thing (although they are related).
 
+<br>
 ### Git
 Git is a set of command line tools that implement version control. For example:
 ```bash
