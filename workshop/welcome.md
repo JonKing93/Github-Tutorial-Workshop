@@ -23,7 +23,7 @@ Forking code and pull requests will not be a primary focus. Throughout the works
 
 ## Workshop demos
 
-In this workshop, I will use several demos to illustrate how to use Github. If you would like to follow along with the demos, you can download the files used <a href="../demo-files.zip" download>here</a>.
+In this workshop, I will use several demos to illustrate how to use Github. If you would like to follow along with the demos, you can download the files used <a href="../demo-files/demo-files.zip" download>here</a>.
 
 
 Alright, let's start the workshop!
