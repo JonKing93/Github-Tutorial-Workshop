@@ -86,7 +86,7 @@ My-Data-Folder/
 
 <br>
 # New Vocabulary
-* **gitignore**: A plain text file named '.gitignore' located at the repository root. The gitignore specifies files that should be ignored in the repository.
+* **gitignore**: A plain text file named '.gitignore' located at the top level of the repository. The gitignore specifies files that should be ignored in the repository.
 
 Alright, let's try it out!
 

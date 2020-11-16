@@ -22,7 +22,7 @@ This page links to the conceptual topics covered in the workshop.
 * **commit**: A saved version of a repository.
 * **commit**: Saving a version of a project and documenting the changes.
 * **clone**: Downloading a remote repository to your computer.
-* **gitignore**: A plain text file named '.gitignore' located at the repository root. The gitignore specifies files that should be ignored in the repository.
+* **gitignore**: A plain text file named '.gitignore' located at the top level of the repository. The gitignore specifies files that should be ignored in the repository.
 * **local**: The repository stored on your computer.
 * **merge**: Combining two branches
 * **merge conflict**: An error that occurs when trying to merge branches that have different versions of the same line.
