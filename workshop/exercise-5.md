@@ -5,7 +5,7 @@ title: Exercise 5
 
 # Exercise 5: Gitignore
 
-In this exercise, we will practice using a .gitignore to ignore files in the local repository. If you like, you can download some example files to play around with <a href="..\ignore.zip" download>here</a>.
+In this exercise, we will practice using a .gitignore to ignore files in the local repository. If you like, you can download some example files to play around with <a href="..\demo-files\ignore.zip" download>here</a>.
 
 ## A) Test the ignored files
 
