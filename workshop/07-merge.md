@@ -5,7 +5,7 @@ title: Branches
 
 # Merging branches
 
-As mentioned previously, you might branch your code so that you can maintain a working version while testing out new features that could break your code or analysis. However, once you finish developing the new features, you may ready to consolidate the two branches.
+As mentioned previously, you might branch your code so that you can maintain a working version while testing out new features that could break your code or analysis. However, once you finish developing the new features, you may be ready to consolidate the two branches.
 
 ![The main branch has a second branch for developing a new feature. The second branch has reached a commit labeled 'Finished new feature'.](..\assets\images\07\pre-merge.svg)
 
