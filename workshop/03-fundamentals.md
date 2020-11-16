@@ -21,7 +21,7 @@ To work on a project, you will need to download the repository to your computer.
 
 ### Commit
 
-As you make changes to your project, you will want to periodically save it and document your work. When you do so, the current state of your project is saved and added to the project's version history. Each of these versions is known as a **commit**. Likewise the action of making these saves is also known as a **commit** or **committing**.
+As you make changes to your project, you will want to periodically save and document your work. When you do so, the current state of your project is saved and added to the project's version history. Each of these versions is known as a **commit**. Likewise the action of making these saves is also known as a **commit** or **committing**.
 
 ![An arrow advances the local files to an edited state. The arrow is labeled 'commit'.](..\assets\images\03\commit.svg)
 
