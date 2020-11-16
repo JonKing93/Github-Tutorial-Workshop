@@ -14,6 +14,7 @@ git commit -am "Made changes X and Y to the project because of Z."
 ```
 could be used to save a new version of a project using a terminal.
 
+<br>
 ### Github
 By contrast, Github is a company that implements a more user-friendly platform around the git tools. In particular, it uses a desktop app and website to implement version control. For example, this:
 
